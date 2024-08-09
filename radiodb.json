@@ -1,0 +1,2931 @@
+[
+  {
+    "station": "100%NL",
+	"img": "radioart/100-NL.webp",
+    "streamInfo": [
+      {
+        "name": "100%NL",
+        "streamLinks": [
+          "https://stream.100p.nl/100pctnl.mp3"
+        ]
+      },
+      {
+        "name": "Feest",
+        "streamLinks": [
+          "https://stream.100p.nl/web01_mp3"
+        ]
+      },
+      {
+        "name": "Liefde",
+        "streamLinks": [
+          "https://stream.100p.nl/web03_mp3"
+        ]
+      },
+      {
+        "name": "NL Nederpop",
+        "streamLinks": [
+          "https://stream.100p.nl/web04_mp3"
+        ]
+      },
+      {
+        "name": "NL Non-Stop",
+        "streamLinks": [
+          "https://stream.100p.nl/web02_mp3"
+        ]
+      },
+      {
+        "name": "Puur",
+        "streamLinks": [
+          "https://stream.100p.nl/web06_mp3"
+        ]
+      },
+      {
+        "name": "Zomer",
+        "streamLinks": [
+          "https://stream.100p.nl/web05_mp3"
+        ]
+      }
+    ]
+  },
+  {
+    "station": "538",
+	"img": "radioart/538.webp",
+    "streamInfo": [
+      {
+        "name": "538 Radio",
+        "streamLinks": [
+          "https://playerservices.streamtheworld.com/api/livestream-redirect/RADIO538",
+          "https://playerservices.streamtheworld.com/api/livestream-redirect/RADIO538.mp3",
+          "https://playerservices.streamtheworld.com/api/livestream-redirect/RADIO538AAC.aac"
+        ]
+      },
+      {
+        "name": "538 Classics",
+        "streamLinks": [
+          "https://playerservices.streamtheworld.com/api/livestream-redirect/TLPSTR08.mp3",
+          "https://playerservices.streamtheworld.com/api/livestream-redirect/TLPSTR08AAC.aac"
+        ]
+      },
+      {
+        "name": "538 Dance Dept.",
+        "streamLinks": [
+          "https://playerservices.streamtheworld.com/api/livestream-redirect/TLPSTR01",
+          "https://playerservices.streamtheworld.com/api/livestream-redirect/TLPSTR01.mp3",
+          "https://playerservices.streamtheworld.com/api/livestream-redirect/TLPSTR01AAC.aac"
+        ]
+      },
+      {
+        "name": "538 Hitzone",
+        "streamLinks": [
+          "https://playerservices.streamtheworld.com/api/livestream-redirect/TLPSTR11",
+          "https://playerservices.streamtheworld.com/api/livestream-redirect/TLPSTR11.mp3",
+          "https://playerservices.streamtheworld.com/api/livestream-redirect/TLPSTR11AAC.aac"
+        ]
+      },
+      {
+        "name": "538 Ibiza",
+        "streamLinks": [
+          "https://playerservices.streamtheworld.com/api/livestream-redirect/TLPSTR19",
+          "https://playerservices.streamtheworld.com/api/livestream-redirect/TLPSTR19.mp3",
+          "https://playerservices.streamtheworld.com/api/livestream-redirect/TLPSTR19AAC.aac"
+        ]
+      },
+      {
+        "name": "538 Non-Stop",
+        "streamLinks": [
+          "https://playerservices.streamtheworld.com/api/livestream-redirect/TLPSTR09",
+          "https://playerservices.streamtheworld.com/api/livestream-redirect/TLPSTR09.mp3",
+          "https://playerservices.streamtheworld.com/api/livestream-redirect/TLPSTR09AAC.aac"
+        ]
+      },
+      {
+        "name": "538 Party",
+        "streamLinks": [
+          "https://playerservices.streamtheworld.com/api/livestream-redirect/TLPSTR16",
+          "https://playerservices.streamtheworld.com/api/livestream-redirect/TLPSTR16.mp3",
+          "https://playerservices.streamtheworld.com/api/livestream-redirect/TLPSTR16AAC.aac"
+        ]
+      },
+      {
+        "name": "538 Top 50",
+        "streamLinks": [
+          "https://playerservices.streamtheworld.com/api/livestream-redirect/TLPSTR13",
+          "https://playerservices.streamtheworld.com/api/livestream-redirect/TLPSTR13.mp3",
+          "https://playerservices.streamtheworld.com/api/livestream-redirect/TLPSTR13AAC.aac"
+        ]
+      },
+      {
+        "name": "538 90s Hits",
+        "streamLinks": [
+          "https://playerservices.streamtheworld.com/api/livestream-redirect/TLPSTR21.mp3",
+          "https://playerservices.streamtheworld.com/api/livestream-redirect/TLPSTR21",
+          "https://playerservices.streamtheworld.com/api/livestream-redirect/TLPSTR21AAC.aac"
+        ]
+      },
+      {
+        "name": "538 Zomer",
+        "streamLinks": [
+          "https://playerservices.streamtheworld.com/api/livestream-redirect/TLPSTR06.mp3",
+          "https://playerservices.streamtheworld.com/api/livestream-redirect/TLPSTR06AAC.aac",
+          "https://playerservices.streamtheworld.com/api/livestream-redirect/TLPSTR06"
+        ]
+      },
+      {
+        "name": "538 Oranje Beat",
+        "streamLinks": [
+          "https://playerservices.streamtheworld.com/api/livestream-redirect/TLPSTR07.mp3"
+        ]
+      }
+    ]
+  },
+  {
+    "station": "Arrow Bluesrock",
+    "streamInfo": [
+      {
+        "name": "Arrow Bluesbox Radio - ABR)",
+        "streamLinks": [
+          "https://playerservices.streamtheworld.com/api/livestream-redirect/ARROWBLUESBOXAAC.aac",
+          "https://playerservices.streamtheworld.com/api/livestream-redirect/ARROWBLUESBOX.mp3",
+          "https://playerservices.streamtheworld.com/api/livestream-redirect/ARROWBLUESBOX",
+          "https://playerservices.streamtheworld.com/pls/ARROWBLUESBOXAAC.pls",
+          "https://playerservices.streamtheworld.com/pls/ARROWBLUESBOX.pls"
+        ]
+      },
+      {
+        "name": "Arrow CAZ! (PAKO Media B.V.)",
+        "streamLinks": [
+          "https://playerservices.streamtheworld.com/api/livestream-redirect/ARROWCAZAAC.aac",
+          "https://playerservices.streamtheworld.com/api/livestream-redirect/ARROWCAZ.mp3",
+          "https://playerservices.streamtheworld.com/api/livestream-redirect/ARROWCAZ",
+          "https://playerservices.streamtheworld.com/pls/ARROWCAZAAC.pls",
+          "https://playerservices.streamtheworld.com/pls/ARROWCAZ.pls"
+        ]
+      },
+      {
+        "name": "Arrow Rock Radio (Arrow Media Group)",
+        "streamLinks": [
+          "https://stream.arrowrockradio.com/arrowrockradio"
+        ]
+      }
+    ]
+  },
+  {
+    "station": "Arrow Classic Rock",
+    "streamInfo": [
+      {
+        "name": "Arrow Classic Rock",
+        "streamLinks": [
+          "https://stream.player.arrow.nl/arrow",
+          "https://stream.gal.io/arrow",
+          "https://stream.gal.io/arrow?1579873649949",
+          "http://stream.player.arrow.nl/arrowcr",
+          "https://stream.player.arrow.nl/arrowcr"
+        ]
+      }
+    ]
+  },
+  {
+    "station": "BNR Nieuwsradio",
+    "streamInfo": [
+      {
+        "name": "BNR Nieuwsradio",
+        "streamLinks": [
+          "https://playerservices.streamtheworld.com/pls/BNR_NIEUWSRADIOAAC.pls",
+          "https://playerservices.streamtheworld.com/pls/BNR_NIEUWSRADIO.pls",
+          "https://stream.bnr.nl/bnr_mp3_128_20",
+          "http://stream.bnr.nl/bnr_mp3_128_20",
+          "https://stream.bnr.nl/bnr_aac_96_20",
+          "http://stream.bnr.nl/bnr_aac_96_20"
+        ]
+      }
+    ]
+  },
+  {
+    "station": "CAMFACTOR",
+    "streamInfo": [
+      {
+        "name": "GLXY Radio",
+        "streamLinks": [
+          "https://stream.glxy.radio/GLXY"
+        ]
+      },
+      {
+        "name": "GLXY Throwback Radio",
+        "streamLinks": [
+          "https://stream.glxy.radio/GLXY_OG"
+        ]
+      },
+      {
+        "name": "EASY Radio",
+        "streamLinks": [
+          "http://77.164.95.243:8035/EASY"
+        ]
+      },
+      {
+        "name": "OLDIES",
+        "streamLinks": [
+          "http://37.97.220.253:8035/OLDIESRADIO"
+        ]
+      }
+    ]
+  },
+  {
+    "station": "Classicnl",
+    "streamInfo": [
+      {
+        "name": "Classicnl",
+        "streamLinks": [
+          "https://classic.nl/streams/?s=main",
+          "https://stream.classic.nl/classicnl.mp3"
+        ]
+      },
+      {
+        "name": "Mind Radio",
+        "streamLinks": [
+          "https://classic.nl/streams/?s=mindradio",
+          "https://stream.classic.nl/classicnl-mindradio.mp3"
+        ]
+      },
+      {
+        "name": "Opera",
+        "streamLinks": [
+          "https://classic.nl/streams/?s=opera",
+          "https://stream.classic.nl/classicnl-opera.mp3"
+        ]
+      },
+      {
+        "name": "Soundtracks",
+        "streamLinks": [
+          "https://classic.nl/streams/?s=soundtracks",
+          "https://stream.classic.nl/classicnl-soundtracks.mp3"
+        ]
+      }
+    ]
+  },
+  {
+    "station": "Joe - Nederland",
+    "streamInfo": [
+      {
+        "name": "Joe 70s, 80s & 90s",
+        "streamLinks": [
+          "https://stream.joe.nl/joe/aachigh",
+          "https://stream.joe.nl/joe/aaclow",
+          "https://stream.joe.nl/joe/mp3"
+        ]
+      }
+    ]
+  },
+  {
+    "station": "Jumbo Radio",
+    "streamInfo": [
+      {
+        "name": "Jumbo Radio",
+        "streamLinks": [
+          "https://playerservices.streamtheworld.com/api/livestream-redirect/JUMBORADIOAAC.aac",
+          "https://playerservices.streamtheworld.com/api/livestream-redirect/JUMBORADIO"
+        ]
+      }
+    ]
+  },
+  {
+    "station": "KINK",
+    "streamInfo": [
+      {
+        "name": "KINK No Alternative",
+        "streamLinks": [
+          "https://playerservices.streamtheworld.com/api/livestream-redirect/KINK.mp3",
+          "https://playerservices.streamtheworld.com/api/livestream-redirect/KINKAAC.aac"
+        ]
+      },
+      {
+        "name": "KINK Distortion",
+        "streamLinks": [
+          "https://playerservices.streamtheworld.com/api/livestream-redirect/KINK_DISTORTION.mp3",
+          "https://playerservices.streamtheworld.com/api/livestream-redirect/KINK_DISTORTIONAAC.aac"
+        ]
+      },
+      {
+        "name": "KINK  80's",
+        "streamLinks": [
+          "https://playerservices.streamtheworld.com/api/livestream-redirect/KINK_DNA.mp3",
+          "https://playerservices.streamtheworld.com/api/livestream-redirect/KINK_DNAAAC.aac"
+        ]
+      },
+      {
+        "name": "KINK 90s",
+        "streamLinks": [
+          "https://playerservices.streamtheworld.com/api/livestream-redirect/KINK_90S.mp3",
+          "https://playerservices.streamtheworld.com/api/livestream-redirect/KINK_90SAAC.aac"
+        ]
+      }
+    ]
+  },
+  {
+    "station": "Nostalgie",
+    "streamInfo": [
+      {
+        "name": "Nostalgie",
+        "streamLinks": [
+          "https://playerservices.streamtheworld.com/api/livestream-redirect/NOSTALGIENL",
+          "https://playerservices.streamtheworld.com/api/livestream-redirect/NOSTALGIENL.mp3",
+          "https://playerservices.streamtheworld.com/api/livestream-redirect/NOSTALGIENLAAC.aac"
+        ]
+      }
+    ]
+  },
+  {
+    "station": "Pinguin Radio",
+    "streamInfo": [
+      {
+        "name": "Pinguin Indie",
+        "streamLinks": [
+          "https://streams.pinguinradio.com/PinguinRadio320.mp3",
+          "https://streams.pinguinradio.com/PinguinRadio192.mp3"
+        ]
+      },
+      {
+        "name": "Pinguin Classics",
+        "streamLinks": [
+          "https://streams.pinguinradio.com/PinguinClassics192.mp3"
+        ]
+      },
+      {
+        "name": "Pinguin On the Rocks",
+        "streamLinks": [
+          "https://streams.pinguinradio.com/PinguinOnTheRocks192.mp3"
+        ]
+      },
+      {
+        "name": "Pinguin Pop",
+        "streamLinks": [
+          "https://samcloud.spacial.com/api/listen?sid=98586&amp;m=sc&amp;rid=174409",
+          "https://playerservices.streamtheworld.com/api/livestream-redirect/SP_R2591862_SC.mp3"
+        ]
+      },
+      {
+        "name": "Pinguin Aardschok",
+        "streamLinks": [
+          "https://streams.pinguinradio.com/Aardschok192.mp3",
+          "https://playerservices.streamtheworld.com/api/livestream-redirect/SP_R2591862_SC.mp3"
+        ]
+      },
+      {
+        "name": "Pinguin Grooves",
+        "streamLinks": [
+          "https://samcloud.spacial.com/api/listen?sid=98587&amp;m=sc&amp;rid=174412",
+          "https://playerservices.streamtheworld.com/api/livestream-redirect/SP_R2591867_SC.mp3"
+        ]
+      },
+      {
+        "name": "Pinguin Fiësta",
+        "streamLinks": [
+          "https://playerservices.streamtheworld.com/api/livestream-redirect/SP_R2292843_SC.mp3",
+          "https://19293.live.streamtheworld.com/SP_R2292843_SC"
+        ]
+      },
+      {
+        "name": "Pinguin Pluche",
+        "streamLinks": [
+          "https://samcloud.spacial.com/api/listen?sid=98569&amp;m=sc&amp;rid=174384",
+          "https://playerservices.streamtheworld.com/api/livestream-redirect/SP_R2591410_SC.mp3"
+        ]
+      },
+      {
+        "name": "Pinguin Blues",
+        "streamLinks": [
+          "https://samcloud.spacial.com/api/listen?sid=93462&amp;m=sc&amp;rid=168006&amp;t=ssl",
+          "https://playerservices.streamtheworld.com/api/livestream-redirect/SP_R2406394_SC.mp3"
+        ]
+      },
+      {
+        "name": "Pinguin World",
+        "streamLinks": [
+          "https://samcloud.spacial.com/api/listen?sid=98570&amp;m=sc&amp;rid=174387",
+          "https://playerservices.streamtheworld.com/api/livestream-redirect/SP_R2591417_SC.mp3"
+        ]
+      },
+      {
+        "name": "Pinguin Vintage",
+        "streamLinks": [
+          "https://samcloud.spacial.com/api/listen?sid=131111&amp;m=sc&amp;rid=275910&amp;t=ssl",
+          "https://playerservices.streamtheworld.com/api/livestream-redirect/SP_R4017895_SC.mp3"
+        ]
+      },
+      {
+        "name": "Pinguin Showcase",
+        "streamLinks": [
+          "https://samcloud.spacial.com/api/listen?sid=110690&amp;m=sc&amp;rid=190799&amp;t=ssl",
+          "https://playerservices.streamtheworld.com/api/livestream-redirect/SP_R3045093_SC.mp3"
+        ]
+      }
+    ]
+  },
+  {
+    "station": "Qmusic",
+	"img": "radioart/c300.webp",
+    "streamInfo": [
+      {
+        "name": "Qmusic Nederland",
+        "streamLinks": [
+          "https://stream.qmusic.nl/qmusic/aachigh",
+          "https://stream.qmusic.nl/qmusic/aaclow",
+          "https://stream.qmusic.nl/qmusic/mp3",
+          "https://icecast-qmusicnl-cdp.triple-it.nl/Qmusic_nl_live_high.aac",
+          "https://icecast-qmusicnl-cdp.triple-it.nl/Qmusic_nl_live_low.aac",
+          "https://icecast-qmusicnl-cdp.triple-it.nl/Qmusic_nl_live.mp3"
+        ]
+      },
+      {
+        "name": "Q  Nederlandstalig",
+        "streamLinks": [
+          "https://stream.qmusic.nl/nederlandstalig/mp3",
+          "https://stream.qmusic.nl/nederlandstalig/aachigh",
+          "https://stream.qmusic.nl/nederlandstalig/aaclow",
+          "https://icecast-qmusicnl-cdp.triple-it.nl/Qmusic_nl_nederlandstalig_high.aac",
+          "https://icecast-qmusicnl-cdp.triple-it.nl/Qmusic_nl_nederlandstalig_low.aac"
+        ]
+      },
+      {
+        "name": "Q  Foute Uur",
+        "streamLinks": [
+          "https://stream.qmusic.nl/fouteuur/aachigh",
+          "https://stream.qmusic.nl/fouteuur/aaclow",
+          "https://stream.qmusic.nl/fouteuur/mp3",
+          "https://icecast-qmusicnl-cdp.triple-it.nl/Qmusic_nl_fouteuur_high.aac",
+          "https://icecast-qmusicnl-cdp.triple-it.nl/Qmusic_nl_fouteuur_low.aac",
+          "https://icecast-qmusicnl-cdp.triple-it.nl/Qmusic_nl_fouteuur.mp3"
+        ]
+      },
+      {
+        "name": "Q Non-Stop",
+        "streamLinks": [
+          "https://stream.qmusic.nl/nonstop/aachigh",
+          "https://stream.qmusic.nl/nonstop/aaclow",
+          "https://stream.qmusic.nl/nonstop/mp3",
+          "https://icecast-qmusicnl-cdp.triple-it.nl/Qmusic_nl_nonstop_high.aac",
+          "https://icecast-qmusicnl-cdp.triple-it.nl/Qmusic_nl_nonstop_low.aac",
+          "https://icecast-qmusicnl-cdp.triple-it.nl/Qmusic_nl_nonstop.mp3"
+        ]
+      },
+      {
+        "name": "Q Summer",
+        "streamLinks": [
+          "https://stream.qmusic.nl/thema/mp3",
+          "https://stream.qmusic.nl/thema/aachigh",
+          "https://stream.qmusic.nl/thema/aaclow",
+          "https://icecast-qmusicnl-cdp.triple-it.nl/Qmusic_nl_thema_high.aac",
+          "https://icecast-qmusicnl-cdp.triple-it.nl/Qmusic_nl_thema_low.aac",
+          "https://icecast-qmusicnl-cdp.triple-it.nl/Qmusic_nl_thema.mp3"
+        ]
+      },
+      {
+        "name": "Q Top 40",
+        "streamLinks": [
+          "https://stream.qmusic.nl/top40/aachigh",
+          "https://stream.qmusic.nl/top40/aaclow",
+          "https://stream.qmusic.nl/top40/mp3",
+          "https://icecast-qmusicnl-cdp.triple-it.nl/Qmusic_nl_top40_high.aac",
+          "https://icecast-qmusicnl-cdp.triple-it.nl/Qmusic_nl_top40_low.aac",
+          "https://icecast-qmusicnl-cdp.triple-it.nl/Qmusic_nl_top40.mp3"
+        ]
+      },
+      {
+        "name": "One World Radio - Tomorrowland",
+        "streamLinks": [
+          "https://playerservices.streamtheworld.com/api/livestream-redirect/OWR_WORLD_RADIO_NLAAC.aac",
+          "https://playerservices.streamtheworld.com/api/livestream-redirect/OWR_WORLD_RADIO_NL.mp3",
+          "https://playerservices.streamtheworld.com/api/livestream-redirect/OWR_WORLD_RADIO_NL"
+        ]
+      },
+      {
+        "name": "Qmusic Limburg",
+        "streamLinks": [
+          "https://icecast-qmusicnl-cdp.triple-it.nl/Qmusic_qlmb_high.aac",
+          "https://icecast-qmusicnl-cdp.triple-it.nl/Qmusic_qlmb_low.aac",
+          "https://icecast-qmusicnl-cdp.triple-it.nl/Qmusic_qlmb.mp3"
+        ]
+      }
+    ]
+  },
+  {
+    "station": "Radio 10",
+	"img": "radioart/10.webp",
+    "streamInfo": [
+      {
+        "name": "Radio 10",
+        "streamLinks": [
+          "https://playerservices.streamtheworld.com/api/livestream-redirect/RADIO10",
+          "https://playerservices.streamtheworld.com/api/livestream-redirect/RADIO10.mp3",
+          "https://playerservices.streamtheworld.com/api/livestream-redirect/RADIO10AAC.aac"
+        ]
+      },
+      {
+        "name": "Radio 10 60's & 70's Hits",
+        "streamLinks": [
+          "https://playerservices.streamtheworld.com/api/livestream-redirect/TLPSTR18.mp3",
+          "https://playerservices.streamtheworld.com/api/livestream-redirect/TLPSTR18",
+          "https://playerservices.streamtheworld.com/api/livestream-redirect/TLPSTR18AAC.aac"
+        ]
+      },
+      {
+        "name": "Radio 10 80's Hits",
+        "streamLinks": [
+          "https://playerservices.streamtheworld.com/api/livestream-redirect/TLPSTR20.mp3",
+          "https://playerservices.streamtheworld.com/api/livestream-redirect/TLPSTR20",
+          "https://playerservices.streamtheworld.com/api/livestream-redirect/TLPSTR20AAC.aac"
+        ]
+      },
+      {
+        "name": "Radio 10 90's Hits",
+        "streamLinks": [
+          "https://playerservices.streamtheworld.com/api/livestream-redirect/TLPSTR22.mp3",
+          "https://playerservices.streamtheworld.com/api/livestream-redirect/TLPSTR22",
+          "https://playerservices.streamtheworld.com/api/livestream-redirect/TLPSTR22AAC.aac"
+        ]
+      },
+      {
+        "name": "Radio 10 Love Songs",
+        "streamLinks": [
+          "https://playerservices.streamtheworld.com/api/livestream-redirect/TLPSTR04.mp3",
+          "https://playerservices.streamtheworld.com/api/livestream-redirect/TLPSTR04",
+          "https://playerservices.streamtheworld.com/api/livestream-redirect/TLPSTR04AAC.aac"
+        ]
+      },
+      {
+        "name": "Radio 10 Disco Classics",
+        "streamLinks": [
+          "https://playerservices.streamtheworld.com/api/livestream-redirect/TLPSTR23.mp3",
+          "https://playerservices.streamtheworld.com/api/livestream-redirect/TLPSTR23",
+          "https://playerservices.streamtheworld.com/api/livestream-redirect/TLPSTR23AAC.aac"
+        ]
+      },
+      {
+        "name": "Radio 10 Non-Stop",
+        "streamLinks": [
+          "https://playerservices.streamtheworld.com/api/livestream-redirect/TLPSTR15.mp3",
+          "https://playerservices.streamtheworld.com/api/livestream-redirect/TLPSTR15",
+          "https://playerservices.streamtheworld.com/api/livestream-redirect/TLPSTR15AAC.aac"
+        ]
+      },
+      {
+        "name": "Radio 10 Top 4000",
+        "streamLinks": [
+          "https://playerservices.streamtheworld.com/api/livestream-redirect/TLPSTR24.mp3",
+          "https://playerservices.streamtheworld.com/api/livestream-redirect/TLPSTR24",
+          "https://playerservices.streamtheworld.com/api/livestream-redirect/TLPSTR24AAC.aac"
+        ]
+      }
+    ]
+  },
+  {
+    "station": "Radio Veronica",
+	"img": "radioart/Veronica.webp",
+    "streamInfo": [
+      {
+        "name": "Radio Veronica",
+        "streamLinks": [
+          "https://playerservices.streamtheworld.com/api/livestream-redirect/VERONICA",
+          "https://playerservices.streamtheworld.com/api/livestream-redirect/VERONICA.mp3",
+          "https://playerservices.streamtheworld.com/api/livestream-redirect/VERONICAAAC.aac"
+        ]
+      },
+      {
+        "name": "Alternative",
+        "streamLinks": [
+          "https://playerservices.streamtheworld.com/api/livestream-redirect/SRGSTR12",
+          "https://playerservices.streamtheworld.com/api/livestream-redirect/SRGSTR12.mp3",
+          "https://playerservices.streamtheworld.com/api/livestream-redirect/SRGSTR12AAC.aac"
+        ]
+      },
+      {
+        "name": "Vintage Veronica",
+        "streamLinks": [
+          "https://playerservices.streamtheworld.com/api/livestream-redirect/SRGSTR09",
+          "https://playerservices.streamtheworld.com/api/livestream-redirect/SRGSTR09.mp3",
+          "https://playerservices.streamtheworld.com/api/livestream-redirect/SRGSTR09AAC.aac"
+        ]
+      },
+      {
+        "name": "Veronica Rockradio",
+        "streamLinks": [
+          "https://playerservices.streamtheworld.com/api/livestream-redirect/SRGSTR11",
+          "https://playerservices.streamtheworld.com/api/livestream-redirect/SRGSTR11.mp3",
+          "https://playerservices.streamtheworld.com/api/livestream-redirect/SRGSTR11AAC.aac"
+        ]
+      },
+      {
+        "name": "Veronica Top 1000 Allertijden",
+        "streamLinks": [
+          "https://playerservices.streamtheworld.com/api/livestream-redirect/SRGSTR10",
+          "https://playerservices.streamtheworld.com/api/livestream-redirect/SRGSTR10.mp3",
+          "https://playerservices.streamtheworld.com/api/livestream-redirect/SRGSTR10AAC.aac"
+        ]
+      }
+    ]
+  },
+  {
+    "station": "Sky Radio",
+	"img": "radioart/Sky_Radio.webp",
+    "streamInfo": [
+      {
+        "name": "Sky Radio Non-Stop",
+        "streamLinks": [
+          "https://playerservices.streamtheworld.com/api/livestream-redirect/SKYRADIO.mp3",
+          "https://playerservices.streamtheworld.com/api/livestream-redirect/SKYRADIOAAC.aac",
+          "https://playerservices.streamtheworld.com/api/livestream-redirect/SKYRADIO"
+        ]
+      },
+      {
+        "name": "Sky Hits",
+        "streamLinks": [
+          "https://playerservices.streamtheworld.com/api/livestream-redirect/SRGSTR01.mp3",
+          "https://playerservices.streamtheworld.com/api/livestream-redirect/SRGSTR01AAC.aac",
+          "https://playerservices.streamtheworld.com/api/livestream-redirect/SRGSTR01"
+        ]
+      },
+      {
+        "name": "Sky Summer Hits",
+        "streamLinks": [
+          "https://playerservices.streamtheworld.com/api/livestream-redirect/SRGSTR28.mp3",
+          "https://playerservices.streamtheworld.com/api/livestream-redirect/SRGSTR28AAC.aac"
+        ]
+      },
+      {
+        "name": "Sky LoveSongs",
+        "streamLinks": [
+          "https://playerservices.streamtheworld.com/api/livestream-redirect/SRGSTR03",
+          "https://playerservices.streamtheworld.com/api/livestream-redirect/SRGSTR03.mp3",
+          "https://playerservices.streamtheworld.com/api/livestream-redirect/SRGSTR03AAC.aac"
+        ]
+      },
+      {
+        "name": "Sky Non-Stop@Work",
+        "streamLinks": [
+          "https://playerservices.streamtheworld.com/api/livestream-redirect/SRGSTR24.mp3",
+          "https://playerservices.streamtheworld.com/api/livestream-redirect/SRGSTR24AAC.aac",
+          "https://playerservices.streamtheworld.com/api/livestream-redirect/SRGSTR24"
+        ]
+      },
+      {
+        "name": "Sky Smooth Hits",
+        "streamLinks": [
+          "https://playerservices.streamtheworld.com/api/livestream-redirect/SRGSTR15",
+          "https://playerservices.streamtheworld.com/api/livestream-redirect/SRGSTR15.mp3",
+          "https://playerservices.streamtheworld.com/api/livestream-redirect/SRGSTR15AAC.aac"
+        ]
+      },
+      {
+        "name": "Sky 80's Hits",
+        "streamLinks": [
+          "https://playerservices.streamtheworld.com/api/livestream-redirect/SRGSTR04",
+          "https://playerservices.streamtheworld.com/api/livestream-redirect/SRGSTR04.mp3",
+          "https://playerservices.streamtheworld.com/api/livestream-redirect/SRGSTR04AAC.aac"
+        ]
+      },
+      {
+        "name": "Sky 90's Hits",
+        "streamLinks": [
+          "https://playerservices.streamtheworld.com/api/livestream-redirect/SRGSTR05",
+          "https://playerservices.streamtheworld.com/api/livestream-redirect/SRGSTR05.mp3",
+          "https://playerservices.streamtheworld.com/api/livestream-redirect/SRGSTR05AAC.aac"
+        ]
+      },
+      {
+        "name": "Sky Nice & Easy",
+        "streamLinks": [
+          "https://playerservices.streamtheworld.com/api/livestream-redirect/SRGSTR07.mp3",
+          "https://playerservices.streamtheworld.com/api/livestream-redirect/SRGSTR07AAC.aac",
+          "https://playerservices.streamtheworld.com/api/livestream-redirect/SRGSTR07"
+        ]
+      },
+      {
+        "name": "Sky Christmas",
+        "streamLinks": [
+          "https://playerservices.streamtheworld.com/api/livestream-redirect/SRGSTR08.mp3",
+          "https://playerservices.streamtheworld.com/api/livestream-redirect/SRGSTR08AAC.aac"
+        ]
+      }
+    ]
+  },
+  {
+    "station": "Slam!",
+	"img": "radioart/SLAM.webp",
+    "streamInfo": [
+      {
+        "name": "Slam! 40",
+        "streamLinks": [
+          "https://stream.slam.nl/web14_mp3",
+          "https://playerservices.streamtheworld.com/api/livestream-redirect/web14_mp3",
+          "https://playerservices.streamtheworld.com/api/livestream-redirect/WEB14_AAC.aac"
+        ]
+      },
+      {
+        "name": "Slam! 00",
+        "streamLinks": [
+          "https://stream.slam.nl/web15_mp3",
+          "https://playerservices.streamtheworld.com/api/livestream-redirect/web15_mp3",
+          "https://playerservices.streamtheworld.com/api/livestream-redirect/WEB15_AAC.aac"
+        ]
+      },
+      {
+        "name": "Slam! Hardstyle",
+        "streamLinks": [
+          "https://stream.slam.nl/web11_mp3",
+          "https://playerservices.streamtheworld.com/api/livestream-redirect/web11_mp3",
+          "https://playerservices.streamtheworld.com/api/livestream-redirect/WEB11_AAC.aac"
+        ]
+      },
+      {
+        "name": "Slam! Housuh In De Pauzuh",
+        "streamLinks": [
+          "https://stream.slam.nl/web16_mp3",
+          "https://playerservices.streamtheworld.com/api/livestream-redirect/web16_mp3",
+          "https://playerservices.streamtheworld.com/api/livestream-redirect/WEB16_AAC.aac"
+        ]
+      },
+      {
+        "name": "Slam!",
+        "streamLinks": [
+          "https://stream.slam.nl/slam_mp3",
+          "https://playerservices.streamtheworld.com/api/livestream-redirect/slam_mp3",
+          "https://playerservices.streamtheworld.com/api/livestream-redirect/SLAM_AAC.aac"
+        ]
+      },
+      {
+        "name": "Slam! MixMarathon",
+        "streamLinks": [
+          "https://stream.slam.nl/web13_mp3",
+          "https://playerservices.streamtheworld.com/api/livestream-redirect/web13_mp3",
+          "https://playerservices.streamtheworld.com/api/livestream-redirect/WEB13_AAC.aac"
+        ]
+      },
+      {
+        "name": "Slam! Non-Stop",
+        "streamLinks": [
+          "https://stream.slam.nl/web10_mp3",
+          "https://playerservices.streamtheworld.com/api/livestream-redirect/web10_mp3",
+          "https://playerservices.streamtheworld.com/api/livestream-redirect/WEB10_AAC.aac"
+        ]
+      },
+      {
+        "name": "Slam! Summer",
+        "streamLinks": [
+          "https://stream.slam.nl/web08_mp3",
+          "https://playerservices.streamtheworld.com/api/livestream-redirect/web08_mp3",
+          "https://playerservices.streamtheworld.com/api/livestream-redirect/WEB08_AAC.aac"
+        ]
+      },
+      {
+        "name": "Slam! The Boom Room",
+        "streamLinks": [
+          "https://stream.slam.nl/web12_mp3",
+          "https://playerservices.streamtheworld.com/api/livestream-redirect/web12_mp3",
+          "https://playerservices.streamtheworld.com/api/livestream-redirect/WEB12_AAC.aac"
+        ]
+      },
+      {
+        "name": "Slam! Juize",
+        "streamLinks": [
+          "https://stream.slam.nl/web09_mp3",
+          "https://playerservices.streamtheworld.com/api/livestream-redirect/web09_mp3",
+          "https://playerservices.streamtheworld.com/api/livestream-redirect/WEB09_AAC.aac"
+        ]
+      }
+    ]
+  },
+  {
+    "station": "Sunlite",
+    "streamInfo": [
+      {
+        "name": "Sunlite",
+        "streamLinks": [
+          "https://playerservices.streamtheworld.com/api/livestream-redirect/SUNLITE_MP3_SC",
+          "https://playerservices.streamtheworld.com/api/livestream-redirect/SUNLITE_MP3.mp3"
+        ]
+      }
+    ]
+  },
+  {
+    "station": "YPCA, De Radiofabriek",
+    "streamInfo": [
+      {
+        "name": "ALLsportradio",
+        "streamLinks": [
+          "https://streaming.hofhosting.nl/proxy/allsports_main?mp=/stream"
+        ]
+      },
+      {
+        "name": "GoodLIFE Radio",
+        "streamLinks": [
+          "https://streaming.hofhosting.nl/proxy/goodlife_main",
+          "https://streaming.hofhosting.nl/proxy/goodlife_main?mp=/stream"
+        ]
+      },
+      {
+        "name": "New Business Radio",
+        "streamLinks": [
+          "http://2.trafficstream.nl/business_main.mp3",
+          "http://2.trafficstream.nl/proxy/business_main?mp=/stream"
+        ]
+      },
+      {
+        "name": "Traffic Radio",
+        "streamLinks": [
+          "http://2.trafficstream.nl/traffic_main.mp3",
+          "http://2.trafficstream.nl/proxy/traffic_main?mp=/traffic_main"
+        ]
+      }
+    ]
+  },
+  {
+    "station": "ZTACK",
+    "streamInfo": [
+      {
+        "name": "ZTACK",
+        "streamLinks": [
+          "https://audio.ztack.nl/radio/8000/ztack"
+        ]
+      }
+    ]
+  },
+  {
+    "station": "NPO Blend",
+    "streamInfo": []
+  },
+  {
+    "station": "NPO FunX - The Sound of the City",
+    "streamInfo": [
+      {
+        "name": "NPO FunX - The Sound of the City",
+        "streamLinks": []
+      }
+    ]
+  },
+  {
+    "station": "FunX Utrecht",
+    "streamInfo": []
+  },
+  {
+    "station": "Regionale & lokale omroepen",
+    "streamInfo": [
+      {
+        "name": "Regionale & lokale omroepen",
+        "streamLinks": []
+      }
+    ]
+  },
+  {
+    "station": "Radio Continu",
+    "streamInfo": [
+      {
+        "name": "Radio Continu: Editie 1 (Groningen, Drenthe & Kop van Overijssel)",
+        "streamLinks": [
+          "https://stream.radiocontinu.nl/radiocontinu",
+          "https://stream.radiocontinu.nl/radio-continu"
+        ]
+      },
+      {
+        "name": "Radio Continu: Editie 2 (Friesland)",
+        "streamLinks": [
+          "https://stream.radiocontinu.nl/radiocontinu-2"
+        ]
+      },
+      {
+        "name": "Radio Continu: Editie 3 (overige Provincies)",
+        "streamLinks": [
+          "https://stream.radiocontinu.nl/radiocontinu-3",
+          "https://stream.radiocontinu.nl/radio-continu-3"
+        ]
+      }
+    ]
+  },
+  {
+    "station": "RadioNL",
+    "streamInfo": [
+      {
+        "name": "RadioNL",
+        "streamLinks": [
+          "https://stream.radionl.fm/radionl",
+          "https://player.radionl.fm/?pl=winamp&amp;c=RADIONL",
+          "https://player.radionl.fm/?pl=wmp&amp;c=RADIONL",
+          "https://player.radionl.fm/?pl=quicktime&amp;c=RADIONL",
+          "https://player.radionl.fm/?pl=vlc&amp;c=RADIONL"
+        ]
+      },
+      {
+        "name": "Editie Groningen Oost",
+        "streamLinks": [
+          "https://player.radionl.fm/player.php?pl=winamp&amp;c=RADIONL%20Editie%20Groningen%20Oost",
+          "https://player.radionl.fm/player.php?pl=wmp&amp;c=RADIONL%20Editie%20Groningen%20Oost",
+          "https://player.radionl.fm/player.php?pl=quicktime&amp;c=RADIONL%20Editie%20Groningen%20Oost",
+          "https://player.radionl.fm/player.php?pl=vlc&amp;c=RADIONL%20Editie%20Groningen%20Oost",
+          "https://stream.radionl.fm/rnlgroningenoost"
+        ]
+      },
+      {
+        "name": "Editie Groningen",
+        "streamLinks": [
+          "https://stream.radionl.fm/rnlgroningen",
+          "https://player.radionl.fm/player.php?pl=winamp&amp;c=RADIONL%20Editie%20Groningen",
+          "https://player.radionl.fm/player.php?pl=wmp&amp;c=RADIONL%20Editie%20Groningen",
+          "https://player.radionl.fm/player.php?pl=quicktime&amp;c=RADIONL%20Editie%20Groningen",
+          "https://player.radionl.fm/player.php?pl=vlc&amp;c=RADIONL%20Editie%20Groningen"
+        ]
+      },
+      {
+        "name": "Editie Friesland",
+        "streamLinks": [
+          "https://stream.radionl.fm/rnlfriesland",
+          "https://player.radionl.fm/player.php?pl=winamp&amp;c=RADIONL%20Editie%20Friesland",
+          "https://player.radionl.fm/player.php?pl=wmp&amp;c=RADIONL%20Editie%20Friesland",
+          "https://player.radionl.fm/player.php?pl=quicktime&amp;c=RADIONL%20Editie%20Friesland",
+          "https://player.radionl.fm/player.php?pl=vlc&amp;c=RADIONL%20Editie%20Friesland"
+        ]
+      },
+      {
+        "name": "Editie Assen",
+        "streamLinks": [
+          "https://stream.radionl.fm/rnlassen",
+          "https://player.radionl.fm/player.php?pl=winamp&amp;c=RADIONL%20Editie%20Assen",
+          "https://player.radionl.fm/player.php?pl=wmp&amp;c=RADIONL%20Editie%20Assen",
+          "https://player.radionl.fm/player.php?pl=quicktime&amp;c=RADIONL%20Editie%20Assen",
+          "https://player.radionl.fm/player.php?pl=vlc&amp;c=RADIONL%20Editie%20Assen"
+        ]
+      },
+      {
+        "name": "Editie Emmen",
+        "streamLinks": [
+          "https://stream.radionl.fm/rnlemmen",
+          "https://player.radionl.fm/player.php?pl=winamp&amp;c=RADIONL%20Editie%20Emmen",
+          "https://player.radionl.fm/player.php?pl=wmp&amp;c=RADIONL%20Editie%20Emmen",
+          "https://player.radionl.fm/player.php?pl=quicktime&amp;c=RADIONL%20Editie%20Emmen",
+          "https://player.radionl.fm/player.php?pl=vlc&amp;c=RADIONL%20Editie%20Emmen"
+        ]
+      },
+      {
+        "name": "Editie Hoogeveen",
+        "streamLinks": [
+          "https://stream.radionl.fm/rnlhoogeveen",
+          "https://player.radionl.fm/player.php?pl=winamp&amp;c=RADIONL%20Editie%20Hoogeveen",
+          "https://player.radionl.fm/player.php?pl=wmp&amp;c=RADIONL%20Editie%20Hoogeveen",
+          "https://player.radionl.fm/player.php?pl=quicktime&amp;c=RADIONL%20Editie%20Hoogeveen",
+          "https://player.radionl.fm/player.php?pl=vlc&amp;c=RADIONL%20Editie%20Hoogeveen"
+        ]
+      },
+      {
+        "name": "Editie Meppel",
+        "streamLinks": [
+          "https://stream.radionl.fm/rnlmeppel",
+          "https://player.radionl.fm/player.php?pl=winamp&amp;c=RADIONL%20Editie%20Meppel",
+          "https://player.radionl.fm/player.php?pl=wmp&amp;c=RADIONL%20Editie%20Meppel",
+          "https://player.radionl.fm/player.php?pl=quicktime&amp;c=RADIONL%20Editie%20Meppel",
+          "https://player.radionl.fm/player.php?pl=vlc&amp;c=RADIONL%20Editie%20Meppel"
+        ]
+      },
+      {
+        "name": "Editie Ommen / Hardenberg",
+        "streamLinks": [
+          "https://stream.radionl.fm/rnlhardenberg",
+          "https://player.radionl.fm/player.php?pl=winamp&amp;c=RADIONL%20Editie%20Ommen/Hardenberg",
+          "https://player.radionl.fm/player.php?pl=wmp&amp;c=RADIONL%20Editie%20Ommen/Hardenberg",
+          "https://player.radionl.fm/player.php?pl=quicktime&amp;c=RADIONL%20Editie%20Ommen/Hardenberg",
+          "https://player.radionl.fm/player.php?pl=vlc&amp;c=RADIONL%20Editie%20Ommen/Hardenberg"
+        ]
+      },
+      {
+        "name": "Editie Twente",
+        "streamLinks": [
+          "https://stream.radionl.fm/rnltwente",
+          "https://player.radionl.fm/player.php?pl=winamp&amp;c=RADIONL%20Editie%20Twente",
+          "https://player.radionl.fm/player.php?pl=wmp&amp;c=RADIONL%20Editie%20Twente",
+          "https://player.radionl.fm/player.php?pl=quicktime&amp;c=RADIONL%20Editie%20Twente",
+          "https://player.radionl.fm/player.php?pl=vlc&amp;c=RADIONL%20Editie%20Twente"
+        ]
+      },
+      {
+        "name": "Editie Zwolle / Flevoland",
+        "streamLinks": [
+          "https://stream.radionl.fm/rnloverijssel",
+          "https://player.radionl.fm/player.php?pl=winamp&amp;c=RADIONL%20Editie%20Flevoland",
+          "https://player.radionl.fm/player.php?pl=wmp&amp;c=RADIONL%20Editie%20Flevoland",
+          "https://player.radionl.fm/player.php?pl=quicktime&amp;c=RADIONL%20Editie%20Flevoland",
+          "https://player.radionl.fm/player.php?pl=vlc&amp;c=RADIONL%20Editie%20Flevoland"
+        ]
+      },
+      {
+        "name": "Editie Apeldoorn / Deventer / Zutphen",
+        "streamLinks": [
+          "https://stream.radionl.fm/rnlapeldoorn",
+          "https://player.radionl.fm/player.php?pl=winamp&amp;c=RADIONL%20Editie%20Apeldoorn",
+          "https://player.radionl.fm/player.php?pl=wmp&amp;c=RADIONL%20Editie%20Apeldoorn",
+          "https://player.radionl.fm/player.php?pl=quicktime&amp;c=RADIONL%20Editie%20Apeldoorn",
+          "https://player.radionl.fm/player.php?pl=vlc&amp;c=RADIONL%20Editie%20Apeldoorn"
+        ]
+      },
+      {
+        "name": "Editie Achterhoek",
+        "streamLinks": [
+          "https://stream.radionl.fm/rnlachterhoek",
+          "https://player.radionl.fm/player.php?pl=winamp&amp;c=RADIONL%20Editie%20Achterhoek",
+          "https://player.radionl.fm/player.php?pl=wmp&amp;c=RADIONL%20Editie%20Achterhoek",
+          "https://player.radionl.fm/player.php?pl=quicktime&amp;c=RADIONL%20Editie%20Achterhoek",
+          "https://player.radionl.fm/player.php?pl=vlc&amp;c=RADIONL%20Editie%20Achterhoek"
+        ]
+      },
+      {
+        "name": "Editie Arnhem",
+        "streamLinks": [
+          "https://stream.radionl.fm/rnlarnhem",
+          "https://player.radionl.fm/player.php?pl=winamp&amp;c=RADIONL%20Editie%20Arnhem",
+          "https://player.radionl.fm/player.php?pl=wmp&amp;c=RADIONL%20Editie%20Arnhem",
+          "https://player.radionl.fm/player.php?pl=quicktime&amp;c=RADIONL%20Editie%20Arnhem",
+          "https://player.radionl.fm/player.php?pl=vlc&amp;c=RADIONL%20Editie%20Arnhem"
+        ]
+      },
+      {
+        "name": "Editie Nijmegen",
+        "streamLinks": [
+          "https://stream.radionl.fm/rnlnijmegen",
+          "https://player.radionl.fm/player.php?pl=winamp&amp;c=RADIONL%20Editie%20Nijmegen",
+          "https://player.radionl.fm/player.php?pl=wmp&amp;c=RADIONL%20Editie%20Nijmegen",
+          "https://player.radionl.fm/player.php?pl=quicktime&amp;c=RADIONL%20Editie%20Nijmegen",
+          "https://player.radionl.fm/player.php?pl=vlc&amp;c=RADIONL%20Editie%20Nijmegen"
+        ]
+      },
+      {
+        "name": "Editie Utrecht",
+        "streamLinks": [
+          "https://stream.radionl.fm/rnlutrecht",
+          "https://player.radionl.fm/player.php?pl=winamp&amp;c=RADIONL%20Editie%20Utrecht",
+          "https://player.radionl.fm/player.php?pl=wmp&amp;c=RADIONL%20Editie%20Utrecht",
+          "https://player.radionl.fm/player.php?pl=quicktime&amp;c=RADIONL%20Editie%20Utrecht",
+          "https://player.radionl.fm/player.php?pl=vlc&amp;c=RADIONL%20Editie%20Utrecht"
+        ]
+      },
+      {
+        "name": "Editie Noord-Holland",
+        "streamLinks": [
+          "https://stream.radionl.fm/rnlnoordholland",
+          "https://player.radionl.fm/player.php?pl=winamp&amp;c=RADIONL%20Editie%20Noord%20Holland",
+          "https://player.radionl.fm/player.php?pl=wmp&amp;c=RADIONL%20Editie%20Noord%20Holland",
+          "https://player.radionl.fm/player.php?pl=quicktime&amp;c=RADIONL%20Editie%20Noord%20Holland",
+          "https://player.radionl.fm/player.php?pl=vlc&amp;c=RADIONL%20Editie%20Noord%20Holland"
+        ]
+      },
+      {
+        "name": "Editie Amsterdam",
+        "streamLinks": [
+          "https://stream.radionl.fm/rnlamsterdam",
+          "https://player.radionl.fm/player.php?pl=winamp&amp;c=RADIONL%20Editie%20Amsterdam",
+          "https://player.radionl.fm/player.php?pl=wmp&amp;c=RADIONL%20Editie%20Amsterdam",
+          "https://player.radionl.fm/player.php?pl=quicktime&amp;c=RADIONL%20Editie%20Amsterdam",
+          "https://player.radionl.fm/player.php?pl=vlc&amp;c=RADIONL%20Editie%20Amsterdam"
+        ]
+      },
+      {
+        "name": "Editie Zuid-Holland",
+        "streamLinks": [
+          "https://stream.radionl.fm/rnlzuidholland",
+          "https://player.radionl.fm/player.php?pl=winamp&amp;c=RADIONL%20Editie%20Zuid%20Holland",
+          "https://player.radionl.fm/player.php?pl=wmp&amp;c=RADIONL%20Editie%20Zuid%20Holland",
+          "https://player.radionl.fm/player.php?pl=quicktime&amp;c=RADIONL%20Editie%20Zuid%20Holland",
+          "https://player.radionl.fm/player.php?pl=vlc&amp;c=RADIONL%20Editie%20Zuid%20Holland"
+        ]
+      },
+      {
+        "name": "Editie Zeeland",
+        "streamLinks": [
+          "https://stream.radionl.fm/rnlzeeland",
+          "https://player.radionl.fm/player.php?pl=winamp&amp;c=RADIONL%20Editie%20Zeeland",
+          "https://player.radionl.fm/player.php?pl=wmp&amp;c=RADIONL%20Editie%20Zeeland",
+          "https://player.radionl.fm/player.php?pl=quicktime&amp;c=RADIONL%20Editie%20Zeeland",
+          "https://player.radionl.fm/player.php?pl=vlc&amp;c=RADIONL%20Editie%20Zeeland"
+        ]
+      },
+      {
+        "name": "Editie West-Brabant / Breda",
+        "streamLinks": [
+          "https://stream.radionl.fm/rnlwestbrabant",
+          "https://player.radionl.fm/player.php?pl=winamp&amp;c=RADIONL%20Editie%20West-Brabant",
+          "https://player.radionl.fm/player.php?pl=wmp&amp;c=RADIONL%20Editie%20West-Brabant",
+          "https://player.radionl.fm/player.php?pl=quicktime&amp;c=RADIONL%20Editie%20West-Brabant",
+          "https://player.radionl.fm/player.php?pl=vlc&amp;c=RADIONL%20Editie%20West-Brabant"
+        ]
+      },
+      {
+        "name": "Editie Midden-Brabant / Tilburg",
+        "streamLinks": [
+          "https://stream.radionl.fm/rnlmiddenbrabant",
+          "https://player.radionl.fm/player.php?pl=winamp&amp;c=RADIONL%20Editie%20Midden-Brabant",
+          "https://player.radionl.fm/player.php?pl=wmp&amp;c=RADIONL%20Editie%20Midden-Brabant",
+          "https://player.radionl.fm/player.php?pl=quicktime&amp;c=RADIONL%20Editie%20Midden-Brabant",
+          "https://player.radionl.fm/player.php?pl=vlc&amp;c=RADIONL%20Editie%20Midden-Brabant"
+        ]
+      },
+      {
+        "name": "Editie Noordoost-Brabant / Den Bosch",
+        "streamLinks": [
+          "https://stream.radionl.fm/rnlnoordoostbrabant",
+          "https://player.radionl.fm/player.php?pl=winamp&amp;c=RADIONL%20Editie%20Noordoost-Brabant",
+          "https://player.radionl.fm/player.php?pl=wmp&amp;c=RADIONL%20Editie%20Noordoost-Brabant",
+          "https://player.radionl.fm/player.php?pl=quicktime&amp;c=RADIONL%20Editie%20Noordoost-Brabant",
+          "https://player.radionl.fm/player.php?pl=vlc&amp;c=RADIONL%20Editie%20Noordoost-Brabant"
+        ]
+      },
+      {
+        "name": "Editie Zuidoost Brabant / Eindhoven",
+        "streamLinks": [
+          "https://stream.radionl.fm/rnlzuidoostbrabant",
+          "https://player.radionl.fm/player.php?pl=winamp&amp;c=RADIONL%20Editie%20Zuidoost-Brabant",
+          "https://player.radionl.fm/player.php?pl=wmp&amp;c=RADIONL%20Editie%20Zuidoost-Brabant",
+          "https://player.radionl.fm/player.php?pl=quicktime&amp;c=RADIONL%20Editie%20Zuidoost-Brabant",
+          "https://player.radionl.fm/player.php?pl=vlc&amp;c=RADIONL%20Editie%20Zuidoost-Brabant"
+        ]
+      },
+      {
+        "name": "Editie Limburg (=RadioNL)",
+        "streamLinks": [
+          "https://stream.radionl.fm/radionl",
+          "https://player.radionl.fm/?pl=winamp&amp;c=RADIONL",
+          "https://player.radionl.fm/?pl=wmp&amp;c=RADIONL",
+          "https://player.radionl.fm/?pl=quicktime&amp;c=RADIONL",
+          "https://player.radionl.fm/?pl=vlc&amp;c=RADIONL"
+        ]
+      },
+      {
+        "name": "RadioNL Kids",
+        "streamLinks": [
+          "https://stream.radionlkids.nl/rnlkids",
+          "https://player.radionlkids.nl/?pl=winamp&amp;c=RADIONL%20Kids",
+          "https://player.radionlkids.nl/?pl=wmp&amp;c=RADIONL%20Kids",
+          "https://player.radionlkids.nl/?pl=quicktime&amp;c=RADIONL%20Kids",
+          "https://player.radionlkids.nl/?pl=vlc&amp;c=RADIONL%20Kids"
+        ]
+      }
+    ]
+  },
+  {
+    "station": "Omrop Fryslân (Regionale Publieke Omroep)",
+    "streamInfo": [
+      {
+        "name": "Omrop Fryslân",
+        "streamLinks": [
+          "http://www.omropfryslan.nl/radio.m3u",
+          "https://d3pvma9xb2775h.cloudfront.net/icecast/omropfryslan/radio.mp3"
+        ]
+      },
+      {
+        "name": "Alles Frysk",
+        "streamLinks": [
+          "https://d3pvma9xb2775h.cloudfront.net/icecast/omropfryslan/omropnonstop.mp3"
+        ]
+      },
+      {
+        "name": "Fryske top 100",
+        "streamLinks": [
+          "https://d3pvma9xb2775h.cloudfront.net/icecast/omropfryslan/thema.mp3"
+        ]
+      },
+      {
+        "name": "Koperkanaal",
+        "streamLinks": [
+          "https://d3pvma9xb2775h.cloudfront.net/icecast/omropfryslan/koperkanaal.mp3"
+        ]
+      }
+    ]
+  },
+  {
+    "station": "RTV Drenthe\n\t\t                    (Regionale Publieke Omroep)",
+    "streamInfo": [
+      {
+        "name": "Radio Drenthe",
+        "streamLinks": [
+          "https://cdn.rtvdrenthe.nl/icecast/rtvdrenthe/rtvradio"
+        ]
+      },
+      {
+        "name": "Radio Drèents",
+        "streamLinks": [
+          "https://d3vbm02trh7zmp.cloudfront.net/icecast/rtvdrenthe/radio-dreents"
+        ]
+      }
+    ]
+  },
+  {
+    "station": "RTV Focus Zwolle",
+    "streamInfo": [
+      {
+        "name": "Radio Focus 105",
+        "streamLinks": [
+          "http://185.10.48.127:8088/stream.mp3"
+        ]
+      }
+    ]
+  },
+  {
+    "station": "RTV Vechtdal (Ommen en Dalfsen)",
+    "streamInfo": [
+      {
+        "name": "Vechtdal FM (Dat dan wel weer!)",
+        "streamLinks": [
+          "https://streams.rtvvechtdal.nl/VechtdalFM.mp3",
+          "https://rtvvechtdal.nl/player/?pl=vlc&amp;c=Vechtdal%20FM",
+          "https://rtvvechtdal.nl/player/?pl=winamp&amp;c=Vechtdal%20FM",
+          "https://rtvvechtdal.nl/player/?pl=wmp&amp;c=Vechtdal%20FM",
+          "https://rtvvechtdal.nl/player/?pl=quicktime&amp;c=Vechtdal%20FM",
+          "http://stream.vechtdalfm.eu:8000/VechtdalFM.mp3"
+        ]
+      },
+      {
+        "name": "Vechtdal NL (Piratenmuziek uit het Vechtdal)",
+        "streamLinks": [
+          "https://streams.rtvvechtdal.nl/VechtdalNL.mp3",
+          "https://rtvvechtdal.nl/player-nl/?pl=vlc&amp;c=Vechtdal%20NL",
+          "https://rtvvechtdal.nl/player-nl/?pl=winamp&amp;c=Vechtdal%20NL",
+          "https://rtvvechtdal.nl/player-nl/?pl=wmp&amp;c=Vechtdal%20NL",
+          "https://rtvvechtdal.nl/player-nl/?pl=quicktime&amp;c=Vechtdal%20NL"
+        ]
+      }
+    ]
+  },
+  {
+    "station": "Urk FM",
+    "streamInfo": [
+      {
+        "name": "Urk FM",
+        "streamLinks": [
+          "http://live.urkfm.nl:8000/urkfm.mp3"
+        ]
+      },
+      {
+        "name": "Urk FM Geestelijke stream",
+        "streamLinks": [
+          "http://live.urkfm.nl:8000/geestelijk.mp3"
+        ]
+      }
+    ]
+  },
+  {
+    "station": "Haarlem105",
+    "streamInfo": [
+      {
+        "name": "Haarlem105",
+        "streamLinks": [
+          "https://nlpo.stream.vip/harl105/mp3-192/nlpo.stream.vip/",
+          "https://stream.tbmp.nl:8010/haarlem105.web"
+        ]
+      },
+      {
+        "name": "Haarlem Shuffle - Classic Hits",
+        "streamLinks": [
+          "https://nlpo.stream.vip/harlshuf/mp3-192/nlpo.stream.vip/",
+          "https://stream.tbmp.nl:8000/haarlemshufflehigh.mp3",
+          "https://stream.tbmp.nl:8000/haarlemshufflelow.mp3",
+          "https://stream.tbmp.nl:8000/haarlemshuffle.flac",
+          "https://stream.tbmp.nl:8000/haarlemshufflelow.aac",
+          "https://stream.tbmp.nl:8000/haarlemshufflehigh.aac"
+        ]
+      }
+    ]
+  },
+  {
+    "station": "SALTO (Publieke Omroep Amsterdam)",
+    "streamInfo": []
+  },
+  {
+    "station": "SALTO CaribbeanFM",
+    "streamInfo": [
+      {
+        "name": "SALTO CaribbeanFM",
+        "streamLinks": [
+          "https://nlpo.stream.vip/saltocar/mp3-192/nlpo.stream.vip/",
+          "https://olon.quortex.ctl.cdn.ebsd.ericsson.net/olonradio/saltocaribbeanfm/master.m3u8"
+        ]
+      }
+    ]
+  },
+  {
+    "station": "SALTO Mokum Radio",
+    "streamInfo": [
+      {
+        "name": "SALTO Mokum Radio",
+        "streamLinks": [
+          "https://nlpo.stream.vip/saltmoku/mp3-192/nlpo.stream.vip/"
+        ]
+      }
+    ]
+  },
+  {
+    "station": "SALTO Radio Salto",
+    "streamInfo": [
+      {
+        "name": "SALTO Radio Salto",
+        "streamLinks": [
+          "https://nlpo.stream.vip/saltosta/mp3-192/nlpo.stream.vip/"
+        ]
+      }
+    ]
+  },
+  {
+    "station": "SALTO RAZO",
+    "streamInfo": [
+      {
+        "name": "SALTO RAZO",
+        "streamLinks": [
+          "https://nlpo.stream.vip/saltoraz/mp3-192/nlpo.stream.vip/",
+          "https://olon.quortex.ctl.cdn.ebsd.ericsson.net/olonradio/saltorazo/master.m3u8"
+        ]
+      }
+    ]
+  },
+  {
+    "station": "Streekstad Centraal",
+    "streamInfo": [
+      {
+        "name": "Streekstad Centraal (Heerhugowaard, Alkmaar, Langedijk en Duinstreek)",
+        "streamLinks": [
+          "https://radiostreams.streekstadcentraal.nl:9443/01",
+          "https://radiostreams.streekstadcentraal.nl:9443/02",
+          "https://radiostreams.streekstadcentraal.nl:9443/03"
+        ]
+      },
+      {
+        "name": "Radio Dijk&Waard (v/h Heerhugowaard en Langedijk)",
+        "streamLinks": [
+          "https://radiostreams.streekstadcentraal.nl:9443/05"
+        ]
+      }
+    ]
+  },
+  {
+    "station": "Den Haag FM (DHFM)",
+    "streamInfo": [
+      {
+        "name": "Den Haag FM",
+        "streamLinks": [
+          "https://server3.radio-streams.net:18012/denhaagfm"
+        ]
+      },
+      {
+        "name": "Den Haag Totaal",
+        "streamLinks": [
+          "https://server3.radio-streams.net:18012/denhaagtotaal"
+        ]
+      }
+    ]
+  },
+  {
+    "station": "Unity",
+    "streamInfo": [
+      {
+        "name": "Unity NL (Leiden,Voorschoten, Oegstgeest, Zoeterwoude)",
+        "streamLinks": [
+          "https://icecast.rudeboymedia.nl/unitynl.mp3",
+          "http://icecast.unityfm.nl/unitynl.mp3"
+        ]
+      },
+      {
+        "name": "Unity.NU (Leiden,Voorschoten, Oegstgeest, Zoeterwoude)",
+        "streamLinks": [
+          "https://icecast.rudeboymedia.nl/unitynu071.mp3",
+          "http://icecast.unityfm.nl/unityfm.mp3"
+        ]
+      }
+    ]
+  },
+  {
+    "station": "Langstraat Media (Waalwijk, Loon op Zand)",
+    "streamInfo": [
+      {
+        "name": "Langstraat FM",
+        "streamLinks": [
+          "https://nlpo.stream.vip/langstra/mp3-192/nlpo.stream.vip/"
+        ]
+      },
+      {
+        "name": "Langstraat NL",
+        "streamLinks": [
+          "https://mediaserv30.live-streams.nl:18001/stream"
+        ]
+      }
+    ]
+  },
+  {
+    "station": "Omroep Best",
+    "streamInfo": []
+  },
+  {
+    "station": "Omroep Brabant\n\t\t                    (Regionale Publieke Omroep)",
+    "streamInfo": [
+      {
+        "name": "Omroep Brabant\n\t\t                    (Regionale Publieke Omroep)",
+        "streamLinks": [
+          "http://av.omroepbrabant.nl/icecast/omroepbrabant/mp3",
+          "http://d3slqp9xhts6qb.cloudfront.net/icecast/omroepbrabant/mp3hq"
+        ]
+      }
+    ]
+  },
+  {
+    "station": "L1mburg (L1)\n\t\t                    (Regionale Publieke Omroep)",
+    "streamInfo": [
+      {
+        "name": "L1",
+        "streamLinks": [
+          "https://d34pj260kw1xmk.cloudfront.net/live/l1/radio/index.m3u8"
+        ]
+      },
+      {
+        "name": "L11 Alaaf Radio",
+        "streamLinks": [
+          "https://d34pj260kw1xmk.cloudfront.net/live/l1/l11alaaf/index.m3u8",
+          "https://d34pj260kw1xmk.cloudfront.net/live/l1/l11alaaf/d7a57927-287c-4d2a-a962-a5135bad07c6/index.m3u8"
+        ]
+      },
+      {
+        "name": "Plat-eweg (beperkte uitzendtijden)",
+        "streamLinks": [
+          "https://d34pj260kw1xmk.cloudfront.net/live/l1/plat-eweg/index.m3u8"
+        ]
+      }
+    ]
+  },
+  {
+    "station": "Maasland Radio (Nieuw Bergen)",
+    "streamInfo": [
+      {
+        "name": "Maasland radio",
+        "streamLinks": [
+          "http://stream.maaslandradio.nl:9094/player.mp3"
+        ]
+      },
+      {
+        "name": "Radio Maasduinen",
+        "streamLinks": [
+          "http://radiomaasduinen.gkstreamen.nl:8052/;"
+        ]
+      }
+    ]
+  },
+  {
+    "station": "Radio Venloosch",
+    "streamInfo": [
+      {
+        "name": "Radio Venloosch",
+        "streamLinks": [
+          "https://radiovenloosch.stream.laut.fm/radiovenloosch",
+          "http://radiovenloosch.stream.laut.fm/radiovenloosch",
+          "http://stream.laut.fm/radiovenloosch.m3u"
+        ]
+      },
+      {
+        "name": "Radio Venlostedje",
+        "streamLinks": [
+          "https://venlostedje.stream.laut.fm/venlostedje"
+        ]
+      }
+    ]
+  },
+  {
+    "station": "077Radio (Meijel)",
+    "streamInfo": [
+      {
+        "name": "077Radio",
+        "streamLinks": [
+          "https://listen.openstream.co/377/audio"
+        ]
+      },
+      {
+        "name": "60XL",
+        "streamLinks": [
+          "https://listen.openstream.co/3312/audio"
+        ]
+      },
+      {
+        "name": "70XL",
+        "streamLinks": [
+          "https://listen.openstream.co/6943/audio",
+          "https://stream.zeno.fm/kxb6u29p7rhvv"
+        ]
+      },
+      {
+        "name": "80XL",
+        "streamLinks": [
+          "https://listen.openstream.co/3309/audio"
+        ]
+      },
+      {
+        "name": "90XL",
+        "streamLinks": [
+          "https://stream.zeno.fm/t18tgwqbvxrvv"
+        ]
+      }
+    ]
+  },
+  {
+    "station": "100 Radios",
+    "streamInfo": [
+      {
+        "name": "100 Chill Radio",
+        "streamLinks": [
+          "https://chill.100radios.net"
+        ]
+      },
+      {
+        "name": "100 Hit Radio",
+        "streamLinks": [
+          "https://hit.100radios.net",
+          "https://radio1.streamserver.link/radio/8010/100hit-aac"
+        ]
+      }
+    ]
+  },
+  {
+    "station": "Alex FM (Duitsland, Nederland, Namibië)",
+    "streamInfo": [
+      {
+        "name": "AFM Amsterdam",
+        "streamLinks": [
+          "https://radioalexfm.stream.laut.fm/radioalexfm",
+          "https://node-18.zeno.fm/txy2thr6wp8uv",
+          "https://stream-33.zeno.fm/txy2thr6wp8uv",
+          "http://node-15.zeno.fm/sa41b5curfhvv"
+        ]
+      },
+      {
+        "name": "AFM Namibia",
+        "streamLinks": [
+          "https://stream-52.zeno.fm/sc5kf3x9hfhvv"
+        ]
+      },
+      {
+        "name": "AFM Non-Stop",
+        "streamLinks": [
+          "http://stream-40.zeno.fm/rzysf2gtrfhvv"
+        ]
+      },
+      {
+        "name": "AFM Party",
+        "streamLinks": [
+          "http://stream-41.zeno.fm/fj4cpbed08puv"
+        ]
+      },
+      {
+        "name": "AFM Roermond",
+        "streamLinks": [
+          "https://radioalexfmroermond.stream.laut.fm/radioalexfmroermond",
+          "https://node-13.zeno.fm/de1sqds6wp8uv",
+          "https://stream-22.zeno.fm/de1sqds6wp8uv",
+          "http://node-20.zeno.fm/gxgqudnurfhvv"
+        ]
+      },
+      {
+        "name": "AFM Verrückte Stunde",
+        "streamLinks": [
+          "http://radioalexfmdieverruecktestunde.stream.laut.fm/radioalexfmdieverruecktestunde"
+        ]
+      },
+      {
+        "name": "AFM Christmas",
+        "streamLinks": [
+          "https://stream-51.zeno.fm/picxao7j4zpvv"
+        ]
+      },
+      {
+        "name": "AFM XION (Namibia)",
+        "streamLinks": [
+          "https://xion.stream.laut.fm/xion"
+        ]
+      }
+    ]
+  },
+  {
+    "station": "Beats2Dance",
+    "streamInfo": [
+      {
+        "name": "House",
+        "streamLinks": [
+          "https://mediaserv38.live-streams.nl:18002/house"
+        ]
+      },
+      {
+        "name": "Trance",
+        "streamLinks": [
+          "https://mediaserv38.live-streams.nl:18002/trance"
+        ]
+      },
+      {
+        "name": "Techno",
+        "streamLinks": [
+          "https://mediaserv38.live-streams.nl:18002/techno"
+        ]
+      }
+    ]
+  },
+  {
+    "station": "Borrel Ronde Radio brr (Den Haag / Haaaglanden)",
+    "streamInfo": [
+      {
+        "name": "Audiokanaal (Berichten voor de zeevaart en de ruime binnenwateren)",
+        "streamLinks": [
+          "http://cc3b.beheerstream.com:8522/live",
+          "http://cc3b.beheerstream.com:8522/stream",
+          "https://panel.beheerstream.com:2199/tunein/fpyzysmy.pls",
+          "https://panel.beheerstream.com:2199/tunein/fpyzysmy.asx",
+          "https://panel.beheerstream.com:2199/tunein/fpyzysmy.ram",
+          "https://panel.beheerstream.com:2199/tunein/fpyzysmy.qtl"
+        ]
+      },
+      {
+        "name": "brrHRImx 1395 (Haaglanden Radio Internationaal 1395 kHz AM) (Muziek)",
+        "streamLinks": [
+          "http://cc3b.beheerstream.com:8635/stream",
+          "https://panel.beheerstream.com:2199/tunein/borrelronderadio.pls",
+          "https://panel.beheerstream.com:2199/tunein/borrelronderadio.asx",
+          "https://panel.beheerstream.com:2199/tunein/borrelronderadio.ram",
+          "https://panel.beheerstream.com:2199/tunein/borrelronderadio.qtl"
+        ]
+      },
+      {
+        "name": "brrHRInx 1485 Nieuws & cultuur",
+        "streamLinks": [
+          "http://cc3b.beheerstream.com:8575/stream",
+          "https://panel.beheerstream.com:2199/tunein/jvhdixbt.pls",
+          "https://panel.beheerstream.com:2199/tunein/jvhdixbt.asx",
+          "https://panel.beheerstream.com:2199/tunein/jvhdixbt.ram",
+          "https://panel.beheerstream.com:2199/tunein/jvhdixbt.qtl",
+          "http://cc3b.beheerstream.com/stream/jvhdixbt.pls?mp=/stream"
+        ]
+      },
+      {
+        "name": "brrHRI+ 846 Muziek",
+        "streamLinks": [
+          "http://cc5.beheerstream.com:8220/stream",
+          "https://panel.beheerstream.com:2199/tunein/qdsgwssu.pls",
+          "https://panel.beheerstream.com:2199/tunein/qdsgwssu.asx",
+          "https://panel.beheerstream.com:2199/tunein/qdsgwssu.ram",
+          "https://panel.beheerstream.com:2199/tunein/qdsgwssu.qtl"
+        ]
+      }
+    ]
+  },
+  {
+    "station": "BrightFM - The Christean Music Station",
+    "streamInfo": [
+      {
+        "name": "NL",
+        "streamLinks": [
+          "http://str1.hollanddata.eu:8000/;"
+        ]
+      },
+      {
+        "name": "Kids",
+        "streamLinks": [
+          "http://str1.hollanddata.eu:8020/;"
+        ]
+      },
+      {
+        "name": "Plus",
+        "streamLinks": [
+          "http://str1.hollanddata.eu:8006/;"
+        ]
+      }
+    ]
+  },
+  {
+    "station": "Chill Out Zone",
+    "streamInfo": [
+      {
+        "name": "Chill Out Zone",
+        "streamLinks": [
+          "https://chillout.zone/chillout"
+        ]
+      },
+      {
+        "name": "Chill Out Zone Plus",
+        "streamLinks": [
+          "https://chillout.zone/chillout_plus"
+        ]
+      },
+      {
+        "name": "Chill In Zone",
+        "streamLinks": [
+          "https://chillout.zone/chillin"
+        ]
+      }
+    ]
+  },
+  {
+    "station": "Concertzender",
+    "streamInfo": [
+      {
+        "name": "Live",
+        "streamLinks": [
+          "https://streams.greenhost.nl:8006/live",
+          "https://www.concertzender.nl/streams/live",
+          "http://streams.greenhost.nl:8080/live",
+          "https://www.concertzender.nl/streams/aac",
+          "http://streams.greenhost.nl:8080/aac",
+          "https://www.concertzender.nl/streams/sb",
+          "http://streams.greenhost.nl:8080/sb"
+        ]
+      },
+      {
+        "name": "Klassiek",
+        "streamLinks": [
+          "https://streams.greenhost.nl:8006/klassiek",
+          "https://www.concertzender.nl/streams/klassiek",
+          "http://streams.greenhost.nl:8080/klassiek"
+        ]
+      },
+      {
+        "name": "Oude Muziek",
+        "streamLinks": [
+          "https://streams.greenhost.nl:8006/oudemuziek",
+          "https://www.concertzender.nl/streams/oudemuziek",
+          "http://streams.greenhost.nl:8080/oudemuziek"
+        ]
+      },
+      {
+        "name": "Nieuwe muziek",
+        "streamLinks": [
+          "https://streams.greenhost.nl:8006/nieuwemuziek",
+          "https://www.concertzender.nl/streams/nieuwemuziek",
+          "http://streams.greenhost.nl:8080/nieuwemuziek"
+        ]
+      },
+      {
+        "name": "Crosslinks",
+        "streamLinks": [
+          "https://streams.greenhost.nl:8006/pop",
+          "https://www.concertzender.nl/streams/pop",
+          "http://streams.greenhost.nl:8080/pop"
+        ]
+      },
+      {
+        "name": "Opera in de 20e eeuw",
+        "streamLinks": [
+          "https://streams.greenhost.nl:8006/opera",
+          "http://streams.greenhost.nl:8080/opera",
+          "http://streams.greenhost.nl:8080/opera"
+        ]
+      },
+      {
+        "name": "Oriënt Express",
+        "streamLinks": [
+          "https://streams.greenhost.nl:8006/orientexpress",
+          "https://www.concertzender.nl/streams/orientexpress",
+          "http://streams.greenhost.nl:8080/orientexpress"
+        ]
+      },
+      {
+        "name": "Jazz",
+        "streamLinks": [
+          "https://streams.greenhost.nl:8006/jazz",
+          "https://www.concertzender.nl/streams/jazz",
+          "http://streams.greenhost.nl:8080/jazz"
+        ]
+      },
+      {
+        "name": "Hard Bob",
+        "streamLinks": [
+          "https://streams.greenhost.nl:8006/hardbop",
+          "https://www.concertzender.nl/streams/hardbop",
+          "http://streams.greenhost.nl:8080/hardbop"
+        ]
+      },
+      {
+        "name": "Raakvlakken",
+        "streamLinks": [
+          "https://streams.greenhost.nl:8006/raakvlakken",
+          "https://www.concertzender.nl/streams/raakvlakken",
+          "http://streams.greenhost.nl:8080/raakvlakken"
+        ]
+      },
+      {
+        "name": "November Music",
+        "streamLinks": [
+          "https://streams.greenhost.nl:8006/novembermusic",
+          "https://www.concertzender.nl/streams/novembermusic",
+          "http://streams.greenhost.nl:8080/novembermusic"
+        ]
+      },
+      {
+        "name": "Wereldmuziek",
+        "streamLinks": [
+          "https://streams.greenhost.nl:8006/wereldmuziek",
+          "https://www.concertzender.nl/streams/wereldmuziek",
+          "http://streams.greenhost.nl:8080/wereldmuziek"
+        ]
+      },
+      {
+        "name": "De gehoorde stilte",
+        "streamLinks": [
+          "https://streams.greenhost.nl:8006/gehoordestilte",
+          "https://www.concertzender.nl/streams/gehoordestilte",
+          "http://streams.greenhost.nl:8080/gehoordestilte"
+        ]
+      },
+      {
+        "name": "X-rated",
+        "streamLinks": [
+          "https://streams.greenhost.nl:8006/concertzenderlive",
+          "https://www.concertzender.nl/streams/concertzenderlive",
+          "http://streams.greenhost.nl:8080/concertzenderlive"
+        ]
+      },
+      {
+        "name": "Gregoriaans",
+        "streamLinks": [
+          "https://streams.greenhost.nl:8006/gregoriaans",
+          "https://www.concertzender.nl/streams/gregoriaans",
+          "http://streams.greenhost.nl:8080/gregoriaans"
+        ]
+      },
+      {
+        "name": "Folk It!",
+        "streamLinks": [
+          "https://streams.greenhost.nl:8006/folkit",
+          "https://www.concertzender.nl/streams/folkit",
+          "http://streams.greenhost.nl:8080/folkit"
+        ]
+      },
+      {
+        "name": "Utrecht Muziekstad",
+        "streamLinks": [
+          "https://streams.greenhost.nl:8006/vredenburg",
+          "https://www.concertzender.nl/streams/vredenburg",
+          "http://streams.greenhost.nl:8080/vredenburg"
+        ]
+      },
+      {
+        "name": "Jazznotjazz",
+        "streamLinks": [
+          "https://streams.greenhost.nl:8006/jazznotjazz",
+          "https://www.concertzender.nl/streams/jazznotjazz",
+          "http://streams.greenhost.nl:8080/jazznotjazz"
+        ]
+      },
+      {
+        "name": "Solta a Franga",
+        "streamLinks": [
+          "https://streams.greenhost.nl:8006/slotaafranga",
+          "https://www.concertzender.nl/streams/slotaafranga",
+          "http://streams.greenhost.nl:8080/slotaafranga"
+        ]
+      },
+      {
+        "name": "Geen dag zonder Bach",
+        "streamLinks": [
+          "https://streams.greenhost.nl:8006/bach",
+          "https://www.concertzender.nl/streams/bach",
+          "http://streams.greenhost.nl:8080/bach"
+        ]
+      },
+      {
+        "name": "Filmmuziek",
+        "streamLinks": [
+          "https://streams.greenhost.nl:8006/film",
+          "https://www.concertzender.nl/streams/filmmuziek",
+          "http://streams.greenhost.nl:8080/filmmuziek"
+        ]
+      },
+      {
+        "name": "Gaudeamus",
+        "streamLinks": [
+          "https://streams.greenhost.nl:8006/gaudeamus",
+          "https://www.concertzender.nl/streams/gaudeamus",
+          "http://streams.greenhost.nl:8080/gaudeamus"
+        ]
+      },
+      {
+        "name": "Radiophonix",
+        "streamLinks": [
+          "https://streams.greenhost.nl:8006/radiophonics",
+          "https://www.concertzender.nl/streams/radiophonics",
+          "http://streams.greenhost.nl:8080/radiophonics"
+        ]
+      },
+      {
+        "name": "Barok",
+        "streamLinks": [
+          "https://streams.greenhost.nl:8006/barok",
+          "https://www.concertzender.nl/streams/barok",
+          "http://streams.greenhost.nl:8080/barok"
+        ]
+      },
+      {
+        "name": "De Muzikant",
+        "streamLinks": [
+          "https://streams.greenhost.nl:8006/amateurmuziek",
+          "https://www.concertzender.nl/streams/amateurmuziek",
+          "http://streams.greenhost.nl:8080/amateurmuziek"
+        ]
+      }
+    ]
+  },
+  {
+    "station": "Dolfijn FM 97.3 (Curaçao)",
+    "streamInfo": [
+      {
+        "name": "Dolfijn Live Radio",
+        "streamLinks": [
+          "https://radiostreamfm.com/radio/8130/radio.mp3",
+          "http://85.214.231.253:8080/stream.mp3"
+        ]
+      },
+      {
+        "name": "Dolfijn Latin",
+        "streamLinks": [
+          "https://radiostreamfm.com/radio/8000/dolfijnlatin.mp3",
+          "http://190.4.191.150:8000/stream.mp3"
+        ]
+      },
+      {
+        "name": "Dolfijn Hits",
+        "streamLinks": [
+          "https://radiostreamfm.com/radio/8020/dolfijnhits.mp3"
+        ]
+      },
+      {
+        "name": "Dolfijn Urban",
+        "streamLinks": [
+          "https://radiostreamfm.com/radio/8010/dolfijnurban.mp3"
+        ]
+      },
+      {
+        "name": "Dolfijn Latin Pop",
+        "streamLinks": [
+          "https://radiostreamfm.com/radio/8040/dolfijnlatin.mp3"
+        ]
+      },
+      {
+        "name": "Dolfijn Top 40",
+        "streamLinks": [
+          "https://radiostreamfm.com/radio/8110/radio.mp3"
+        ]
+      },
+      {
+        "name": "Dolfijn Techno",
+        "streamLinks": [
+          "https://radiostreamfm.com/radio/8050/radio.mp3"
+        ]
+      },
+      {
+        "name": "Dolfijn 80's 90's",
+        "streamLinks": [
+          "https://radiostreamfm.com/radio/8120/radio.mp3"
+        ]
+      }
+    ]
+  },
+  {
+    "station": "Dorpsradio Laren (Rosa Spier Huis, Laren)",
+    "streamInfo": []
+  },
+  {
+    "station": "Double Z",
+    "streamInfo": [
+      {
+        "name": "Double Z",
+        "streamLinks": [
+          "https://stream1.dzradio.nl/",
+          "http://www.internetpiraten.com/luisteren/streams/listen192.pls",
+          "http://www.internetpiraten.com/luisteren/streams/wma192.wax",
+          "http://www.internetpiraten.com/luisteren/streams/listen192.ram"
+        ]
+      }
+    ]
+  },
+  {
+    "station": "Factorystation",
+    "streamInfo": [
+      {
+        "name": "Fact Radio",
+        "streamLinks": [
+          "https://server2.inetcast.nl:1555/stream"
+        ]
+      },
+      {
+        "name": "Nostalgie Radio",
+        "streamLinks": [
+          "https://server6.inetcast.nl:2375/stream",
+          "https://server6.inetcast.nl:2360/nostalgieradio/1/itunes.pls",
+          "https://server6.inetcast.nl:2360/nostalgieradio/1/realplayer.ram",
+          "https://server6.inetcast.nl:2360/nostalgieradio/1/wmp.asx",
+          "https://server6.inetcast.nl:2360/nostalgieradio/1/winamp.m3u"
+        ]
+      }
+    ]
+  },
+  {
+    "station": "Grand Prix Radio",
+    "streamInfo": [
+      {
+        "name": "Grand Prix Radio",
+        "streamLinks": [
+          "https://playerservices.streamtheworld.com/api/livestream-redirect/GRAND_PRIX_RADIO.mp3",
+          "https://playerservices.streamtheworld.com/api/livestream-redirect/GRAND_PRIX_RADIO_SC",
+          "https://playerservices.streamtheworld.com/api/livestream-redirect/GRAND_PRIX_RADIOAAC.aac",
+          "https://playerservices.streamtheworld.com/pls/GRAND_PRIX_RADIO.pls",
+          "https://playerservices.streamtheworld.com/pls/GRAND_PRIX_RADIOAAC.pls"
+        ]
+      },
+      {
+        "name": "Grand Prix Radio Classics",
+        "streamLinks": [
+          "https://playerservices.streamtheworld.com/api/livestream-redirect/GPRCLASSICS",
+          "https://playerservices.streamtheworld.com/api/livestream-redirect/GPRCLASSICS.mp3",
+          "https://playerservices.streamtheworld.com/api/livestream-redirect/GPRCLASSICSAAC.aac"
+        ]
+      },
+      {
+        "name": "GPR met Live Commentaar (beschikbaar in België)",
+        "streamLinks": [
+          "https://playerservices.streamtheworld.com/api/livestream-redirect/GPRDANCE",
+          "https://playerservices.streamtheworld.com/api/livestream-redirect/GPRDANCE.mp3",
+          "https://playerservices.streamtheworld.com/api/livestream-redirect/GPRDANCEAAC.aac"
+        ]
+      }
+    ]
+  },
+  {
+    "station": "Groot Nieuws Radio",
+    "streamInfo": [
+      {
+        "name": "Groot Nieuws Radio",
+        "streamLinks": [
+          "https://playerservices.streamtheworld.com/api/livestream-redirect/GNR.mp3",
+          "http://playerservices.streamtheworld.com/api/livestream-redirect/GNR.mp3",
+          "https://playerservices.streamtheworld.com/api/livestream-redirect/GNRAAC.aac",
+          "http://playerservices.streamtheworld.com/api/livestream-redirect/GNRAAC.aac"
+        ]
+      },
+      {
+        "name": "Groot Nieuws Radio Non-stop",
+        "streamLinks": [
+          "https://playerservices.streamtheworld.com/api/livestream-redirect/GNRNONSTOP.mp3",
+          "http://playerservices.streamtheworld.com/api/livestream-redirect/GNRNONSTOP.mp3",
+          "https://playerservices.streamtheworld.com/api/livestream-redirect/GNRNONSTOPAAC.aac",
+          "http://playerservices.streamtheworld.com/api/livestream-redirect/GNRNONSTOPAAC.aac"
+        ]
+      },
+      {
+        "name": "Groot Nieuws Radio Blijde Klanken",
+        "streamLinks": [
+          "https://playerservices.streamtheworld.com/api/livestream-redirect/GNRBK.mp3",
+          "http://playerservices.streamtheworld.com/api/livestream-redirect/GNRBK.mp3",
+          "https://playerservices.streamtheworld.com/api/livestream-redirect/GNRBKAAC.aac",
+          "http://playerservices.streamtheworld.com/api/livestream-redirect/GNRBKAAC.aac"
+        ]
+      },
+      {
+        "name": "Seven FM",
+        "streamLinks": [
+          "https://playerservices.streamtheworld.com/api/livestream-redirect/SEVENFM.mp3",
+          "http://playerservices.streamtheworld.com/api/livestream-redirect/SEVENFM.mp3",
+          "https://playerservices.streamtheworld.com/api/livestream-redirect/SEVENFMAAC.aac",
+          "http://playerservices.streamtheworld.com/api/livestream-redirect/SEVENFMAAC.aac"
+        ]
+      }
+    ]
+  },
+  {
+    "station": "Hi On Line Radio",
+    "streamInfo": [
+      {
+        "name": "Pop",
+        "streamLinks": [
+          "https://mediaserv30.live-streams.nl:18086/live",
+          "http://mediaserv30.live-streams.nl:8086&nbsp;(Pop)"
+        ]
+      },
+      {
+        "name": "Latin",
+        "streamLinks": [
+          "http://mediaserv33.live-streams.nl:8034",
+          "http://mediaserv33.live-streams.nl:8034/live"
+        ]
+      },
+      {
+        "name": "Lounge",
+        "streamLinks": [
+          "http://mediaserv33.live-streams.nl:8036",
+          "http://mediaserv33.live-streams.nl:8036/live"
+        ]
+      },
+      {
+        "name": "Gold",
+        "streamLinks": [
+          "https://mediaserv30.live-streams.nl:18000/live",
+          "http://mediaserv30.live-streams.nl:8000/"
+        ]
+      },
+      {
+        "name": "Jazz",
+        "streamLinks": [
+          "https://mediaserv38.live-streams.nl:18006/live",
+          "http://mediaserv38.live-streams.nl:8006/"
+        ]
+      },
+      {
+        "name": "Classical",
+        "streamLinks": [
+          "https://mediaserv30.live-streams.nl:18088/live",
+          "http://mediaserv30.live-streams.nl:8088/"
+        ]
+      },
+      {
+        "name": "World",
+        "streamLinks": [
+          "https://mediaserv38.live-streams.nl:18027/live",
+          "http://mediaserv38.live-streams.nl:8027"
+        ]
+      },
+      {
+        "name": "France",
+        "streamLinks": [
+          "https://mediaserv21.live-streams.nl:18000/live"
+        ]
+      }
+    ]
+  },
+  {
+    "station": "Hitpower",
+    "streamInfo": [
+      {
+        "name": "Hitpower",
+        "streamLinks": [
+          "https://mediacp.audiostreamen.nl:8318/stream"
+        ]
+      },
+      {
+        "name": "Hitpower Flashback",
+        "streamLinks": [
+          "https://mediacp.audiostreamen.nl:8332/Flashback"
+        ]
+      }
+    ]
+  },
+  {
+    "station": "HitRadio WestenWind",
+    "streamInfo": [
+      {
+        "name": "HitRadio WestenWind",
+        "streamLinks": [
+          "http://stream.hostbee.nl:1200/stream"
+        ]
+      },
+      {
+        "name": "HitRadio WestenWind Nonstop",
+        "streamLinks": [
+          "http://stream.hostbee.nl:1330/stream"
+        ]
+      }
+    ]
+  },
+  {
+    "station": "Hits4U (Amsterdam)",
+    "streamInfo": [
+      {
+        "name": "ChillHits4U Radio",
+        "streamLinks": [
+          "https://fred.torontocast.com:2050/stream",
+          "http://fred.torontocast.com:2200/stream"
+        ]
+      },
+      {
+        "name": "Hits4U Radio",
+        "streamLinks": [
+          "https://fred.torontocast.com:1950/stream",
+          "http://fred.torontocast.com:2270/stream"
+        ]
+      }
+    ]
+  },
+  {
+    "station": "Holland FM",
+    "streamInfo": [
+      {
+        "name": "Holland FM 2.0",
+        "streamLinks": [
+          "https://server6.inetcast.nl:1785/stream",
+          "https://server6.inetcast.nl:1770/hollandfm/1/winamp.m3u",
+          "https://server6.inetcast.nl:1770/hollandfm/1/wmp.asx"
+        ]
+      },
+      {
+        "name": "Zo Hollands is er maar 1!",
+        "streamLinks": [
+          "http://qxjr001.digiplay.nl:9070/listen.pls",
+          "http://qxjr002.digiplay.nl:9070/listen.pls",
+          "http://37.48.84.98:9070/;"
+        ]
+      }
+    ]
+  },
+  {
+    "station": "Hot Dance Radio",
+    "streamInfo": [
+      {
+        "name": "Nederlands",
+        "streamLinks": [
+          "https://playerservices.streamtheworld.com/api/livestream-redirect/HOTDANCERADIONLAAC.aac",
+          "https://listen.hotdanceradio.com/128.aac"
+        ]
+      },
+      {
+        "name": "International",
+        "streamLinks": [
+          "https://playerservices.streamtheworld.com/api/livestream-redirect/HOTDANCERADIO2AAC.aac",
+          "https://icecast01.hotdanceradio.com/128.aac"
+        ]
+      }
+    ]
+  },
+  {
+    "station": "Intergalactic FM",
+    "streamInfo": [
+      {
+        "name": "Cybernetic Broadcasting System",
+        "streamLinks": [
+          "http://radio.intergalactic.fm:80/1",
+          "http://radio.intergalactic.fm:80/1aac",
+          "http://radio.intergalactic.fm/1.m3u",
+          "http://radio.intergalactic.fm/1aac.m3u"
+        ]
+      },
+      {
+        "name": "Disco Fetish",
+        "streamLinks": [
+          "http://radio.intergalactic.fm:80/2",
+          "http://radio.intergalactic.fm:80/2aac",
+          "http://radio.intergalactic.fm/2.m3u",
+          "http://radio.intergalactic.fm/2aac.m3u"
+        ]
+      },
+      {
+        "name": "Dream Machine",
+        "streamLinks": [
+          "http://radio.intergalactic.fm:80/3",
+          "http://radio.intergalactic.fm:80/3aac",
+          "http://radio.intergalactic.fm/3.m3u",
+          "http://radio.intergalactic.fm/3aac.m3u"
+        ]
+      }
+    ]
+  },
+  {
+    "station": "ISKC Radio Group (Rotterdam)",
+    "streamInfo": [
+      {
+        "name": "ISKC Rock Radio",
+        "streamLinks": [
+          "https://443-1.autopo.st/79/RockRadio",
+          "http://mediaserv68.live-streams.nl:8012/RockRadio"
+        ]
+      },
+      {
+        "name": "ISKC Rock Radio XXL",
+        "streamLinks": [
+          "https://443-1.autopo.st/79/XXL",
+          "http://mediaserv68.live-streams.nl:8012/XXL%20"
+        ]
+      },
+      {
+        "name": "ISKC RPO",
+        "streamLinks": [
+          "https://443-1.autopo.st/79/RockRadio2",
+          "http://mediaserv68.live-streams.nl:8012/RockRadio2"
+        ]
+      },
+      {
+        "name": "ISKC Old Men's Rock",
+        "streamLinks": [
+          "https://443-1.autopo.st/79/OldMenRock",
+          "http://mediaserv68.live-streams.nl:8012/OldMenRock"
+        ]
+      },
+      {
+        "name": "ISKC Only Live",
+        "streamLinks": [
+          "https://443-1.autopo.st/79/OnlyLive",
+          "http://mediaserv68.live-streams.nl:8012/OnlyLive"
+        ]
+      },
+      {
+        "name": "ISKC RadioActive",
+        "streamLinks": [
+          "https://443-1.autopo.st/79/RadioActive",
+          "http://mediaserv68.live-streams.nl:8012/RadioActive"
+        ]
+      },
+      {
+        "name": "ISKC Blues Cafe",
+        "streamLinks": [
+          "https://443-1.autopo.st/79/BluesCafe",
+          "http://mediaserv68.live-streams.nl:8012/BluesCafe"
+        ]
+      },
+      {
+        "name": "ISKC Hardrock Channel",
+        "streamLinks": [
+          "https://443-1.autopo.st/79/HardRockChannel",
+          "http://mediaserv68.live-streams.nl:8012/HardRockChannel"
+        ]
+      },
+      {
+        "name": "ISKC Extreme Metal",
+        "streamLinks": [
+          "https://443-1.autopo.st/79/ExtremeMetal",
+          "http://mediaserv68.live-streams.nl:8012/ExtremeMetal"
+        ]
+      }
+    ]
+  },
+  {
+    "station": "Jazz de Ville",
+    "streamInfo": [
+      {
+        "name": "Jazz",
+        "streamLinks": [
+          "https://onair22.xdevel.com/proxy/xautocloud_kkyb_420?mp=/stream",
+          "http://mediaserv21.live-streams.nl:8006/stream",
+          "http://mediaserv21.live-streams.nl:8006/stream.m3u",
+          "http://mediaserv21.live-streams.nl:8006/stream.xspf"
+        ]
+      },
+      {
+        "name": "Groove",
+        "streamLinks": [
+          "https://onair22.xdevel.com/proxy/xautocloud_1kha_423?mp=/stream",
+          "http://mediaserv30.live-streams.nl:8010/stream",
+          "http://mediaserv30.live-streams.nl:8010/stream.m3u",
+          "http://mediaserv30.live-streams.nl:8010/stream.xspf"
+        ]
+      },
+      {
+        "name": "Dance",
+        "streamLinks": [
+          "https://onair22.xdevel.com/proxy/xautocloud_6cqz_422?mp=/stream"
+        ]
+      },
+      {
+        "name": "Chill",
+        "streamLinks": [
+          "https://onair22.xdevel.com/proxy/xautocloud_td3e_421?mp=/stream",
+          "http://mediaserv30.live-streams.nl:8007/stream",
+          "http://mediaserv30.live-streams.nl:8007/stream.m3u",
+          "http://mediaserv30.live-streams.nl:8007/stream.xspf"
+        ]
+      }
+    ]
+  },
+  {
+    "station": "Non-Stop Hitradio (NSHitradio) (Dokkum)",
+    "streamInfo": [
+      {
+        "name": "NSHitradio - Origineel",
+        "streamLinks": [
+          "https://jenny.torontocast.com:8002/nshitradio"
+        ]
+      },
+      {
+        "name": "NSHitradio - 80's & 90's Hits",
+        "streamLinks": [
+          "https://kathy.torontocast.com:2205/stream"
+        ]
+      },
+      {
+        "name": "NSHitradio Zomer",
+        "streamLinks": [
+          "https://kathy.torontocast.com:4750/;"
+        ]
+      }
+    ]
+  },
+  {
+    "station": "Olympia Radio",
+    "streamInfo": [
+      {
+        "name": "Olympia Radio / 100% Piratenhits",
+        "streamLinks": [
+          "http://streams.olympia-radio.nl:80/olympia",
+          "https://www.olympia-radio.nl/assets/uploads/olympia-radio_nl/liveluisteren/olympia.pls",
+          "https://www.olympia-radio.nl/assets/uploads/olympia-radio_nl/liveluisteren/olympia.ram",
+          "https://www.olympia-radio.nl/assets/uploads/olympia-radio_nl/liveluisteren/olympia.asx",
+          "https://www.olympia-radio.nl/assets/uploads/olympia-radio_nl/liveluisteren/olympia.m3u",
+          "http://178.20.171.156/;stream.mp3"
+        ]
+      },
+      {
+        "name": "Olympia Radio Classics",
+        "streamLinks": [
+          "http://streams.olympia-classics.nl/classics"
+        ]
+      }
+    ]
+  },
+  {
+    "station": "Oudepiratenhits.nl",
+    "streamInfo": []
+  },
+  {
+    "station": "Our House FM",
+    "streamInfo": [
+      {
+        "name": "Our House FM",
+        "streamLinks": [
+          "https://daniel.torontocast.com:2375/stream"
+        ]
+      }
+    ]
+  },
+  {
+    "station": "Paradise FM (Curaçao)",
+    "streamInfo": [
+      {
+        "name": "Paradise FM 103.1",
+        "streamLinks": [
+          "https://audio-edge-kef8b.ams.s.radiomast.io/0068d53d-f6a4-41d3-9e9a-6a2b67387d9f"
+        ]
+      },
+      {
+        "name": "Paradise Nonstop",
+        "streamLinks": [
+          "https://audio-edge-kef8b.ams.s.radiomast.io/46f2aad6-f945-4ebc-82dd-3625e81031fa"
+        ]
+      },
+      {
+        "name": "Hitradio 915",
+        "streamLinks": [
+          "https://audio-edge-ey5nr.ams.s.radiomast.io/7d662828-5b2f-414b-981c-76c18d363b42"
+        ]
+      }
+    ]
+  },
+  {
+    "station": "Pure Radio Holland",
+    "streamInfo": [
+      {
+        "name": "The Underground Channel",
+        "streamLinks": [
+          "https://streamserver.pure-isp.eu/radio/8000/ultra",
+          "https://streamserver.pure-isp.eu/radio/8000/high",
+          "https://streamserver.pure-isp.eu/radio/8000/low",
+          "https://streamserver.pure-isp.eu/radio/8000/flac"
+        ]
+      },
+      {
+        "name": "Trance-Electro Channel",
+        "streamLinks": [
+          "https://streamserver.pure-isp.eu/radio/8070/ultra",
+          "https://streamserver.pure-isp.eu/radio/8070/high",
+          "https://streamserver.pure-isp.eu/radio/8070/low",
+          "https://streamserver.pure-isp.eu/radio/8070/flac"
+        ]
+      },
+      {
+        "name": "Hardcore Channel (DutchCore FM)",
+        "streamLinks": [
+          "https://streamserver.pure-isp.eu/radio/8100/ultra",
+          "https://streamserver.pure-isp.eu/radio/8100/high",
+          "https://streamserver.pure-isp.eu/radio/8100/low",
+          "https://streamserver.pure-isp.eu/radio/8100/flac"
+        ]
+      },
+      {
+        "name": "Downtempo Channel",
+        "streamLinks": [
+          "https://streamserver.pure-isp.eu/radio/8040/ultra",
+          "https://streamserver.pure-isp.eu/radio/8040/high",
+          "https://streamserver.pure-isp.eu/radio/8040/low",
+          "https://streamserver.pure-isp.eu/radio/8040/flac"
+        ]
+      },
+      {
+        "name": "Live Party Channel",
+        "streamLinks": [
+          "https://streamserver.pure-isp.eu/radio/8010/ultra",
+          "https://streamserver.pure-isp.eu/radio/8010/high",
+          "https://streamserver.pure-isp.eu/radio/8010/low",
+          "https://streamserver.pure-isp.eu/radio/8010/flac"
+        ]
+      },
+      {
+        "name": "Dance Channel",
+        "streamLinks": [
+          "https://streamserver.pure-isp.eu/radio/8030/ultra",
+          "https://streamserver.pure-isp.eu/radio/8030/high",
+          "https://streamserver.pure-isp.eu/radio/8030/low",
+          "https://streamserver.pure-isp.eu/radio/8030/flac"
+        ]
+      },
+      {
+        "name": "DJ R.I.P's Podcast",
+        "streamLinks": [
+          "https://streamserver.pure-isp.eu/radio/8050/ultra",
+          "https://streamserver.pure-isp.eu/radio/8050/high",
+          "https://streamserver.pure-isp.eu/radio/8050/low",
+          "https://streamserver.pure-isp.eu/radio/8050/flac"
+        ]
+      },
+      {
+        "name": "Various Channel",
+        "streamLinks": [
+          "https://streamserver.pure-isp.eu/radio/8060/ultra",
+          "https://streamserver.pure-isp.eu/radio/8060/high",
+          "https://streamserver.pure-isp.eu/radio/8060/low",
+          "https://streamserver.pure-isp.eu/radio/8060/flac"
+        ]
+      },
+      {
+        "name": "Rap & Hip-Hop Channel",
+        "streamLinks": [
+          "https://streamserver.pure-isp.eu/radio/8090/ultra",
+          "https://streamserver.pure-isp.eu/radio/8090/high",
+          "https://streamserver.pure-isp.eu/radio/8090/low",
+          "https://streamserver.pure-isp.eu/radio/8090/flac"
+        ]
+      }
+    ]
+  },
+  {
+    "station": "Radio 854",
+    "streamInfo": [
+      {
+        "name": "Radio 854 (Haaltert)",
+        "streamLinks": [
+          "https://jenny.torontocast.com:8034/stream"
+        ]
+      },
+      {
+        "name": "Radio 854 Gold",
+        "streamLinks": [
+          "https://listen.openstream.co/4613/audio",
+          "http://maggie.torontocast.com:8020/stream",
+          "https://www.radio854gold.com/livestream/winamp.pls",
+          "https://www.radio854gold.com/livestream/media.asx",
+          "https://www.radio854gold.com/livestream/vlc.pls",
+          "https://www.radio854gold.com/livestream/itunes.pls"
+        ]
+      }
+    ]
+  },
+  {
+    "station": "Radio 972",
+    "streamInfo": [
+      {
+        "name": "Radio 972",
+        "streamLinks": [
+          "https://solid41.streamupsolutions.com/proxy/toyfkozk?mp=/stream/4/;"
+        ]
+      },
+      {
+        "name": "NRG 972 [energy]",
+        "streamLinks": [
+          "https://solid41.streamupsolutions.com/proxy/toyfkozk?mp=/stream/6/;"
+        ]
+      }
+    ]
+  },
+  {
+    "station": "Radio Continu",
+    "streamInfo": [
+      {
+        "name": "Radio Continu Editie 1 (Groningen, Drenthe & Kop van Overijssel)",
+        "streamLinks": [
+          "https://stream.radiocontinu.nl/radiocontinu",
+          "https://stream.radiocontinu.nl/radio-continu"
+        ]
+      },
+      {
+        "name": "Radio Continu Editie 2 (Friesland)",
+        "streamLinks": [
+          "https://stream.radiocontinu.nl/radiocontinu-2",
+          "https://stream.radiocontinu.nl/radio-continu-2"
+        ]
+      },
+      {
+        "name": "Radio Continu Editie 3 (Overige provincies)",
+        "streamLinks": [
+          "https://stream.radiocontinu.nl/radiocontinu-3",
+          "https://stream.radiocontinu.nl/radio-continu-3"
+        ]
+      },
+      {
+        "name": "Radio Continu Non-Stop",
+        "streamLinks": [
+          "https://stream.radiocontinu.nl/radiocontinu-nonstop"
+        ]
+      }
+    ]
+  },
+  {
+    "station": "Radio De Schans (RDS)",
+    "streamInfo": [
+      {
+        "name": "RDS Hollandse hits",
+        "streamLinks": [
+          "https://fred.torontocast.com:1745/stream"
+        ]
+      },
+      {
+        "name": "RDS Total Hits",
+        "streamLinks": [
+          "https://fred.torontocast.com:1515/stream"
+        ]
+      }
+    ]
+  },
+  {
+    "station": "Radio Decibel (Boomerang Holding; Flevoland, Noord-Holland, Zuid-Holland)",
+    "streamInfo": [
+      {
+        "name": "Radio Decibel",
+        "streamLinks": [
+          "https://playerservices.streamtheworld.com/api/livestream-redirect/RADIODECIBEL.mp3",
+          "https://stream.decibel.nl/decibel.mp3"
+        ]
+      },
+      {
+        "name": "Eurodance",
+        "streamLinks": [
+          "https://playerservices.streamtheworld.com/api/livestream-redirect/DECIBELEURODANCE.mp3"
+        ]
+      },
+      {
+        "name": "Greatest Hits",
+        "streamLinks": [
+          "https://playerservices.streamtheworld.com/api/livestream-redirect/DECIBEL80S.mp3"
+        ]
+      },
+      {
+        "name": "Ibiza",
+        "streamLinks": [
+          "https://playerservices.streamtheworld.com/api/livestream-redirect/DECIBELIBIZA.mp3",
+          "https://stream.decibel.nl/ibiza.mp3"
+        ]
+      }
+    ]
+  },
+  {
+    "station": "Radio El Dorado (Rotterdam)",
+    "streamInfo": [
+      {
+        "name": "Radio El Dorado",
+        "streamLinks": [
+          "https://el-dorado.stream.laut.fm/",
+          "http://el-dorado.stream.laut.fm/el-dorado"
+        ]
+      },
+      {
+        "name": "Radio El Dorado - NL (laut.fm)",
+        "streamLinks": [
+          "http://stream.laut.fm/el-dorado"
+        ]
+      }
+    ]
+  },
+  {
+    "station": "Radio Rosita",
+    "streamInfo": []
+  },
+  {
+    "station": "Radio Sangam (Stichting Siddhant)",
+    "streamInfo": [
+      {
+        "name": "Radio Sangam (Stichting Siddhant)",
+        "streamLinks": []
+      }
+    ]
+  },
+  {
+    "station": "RadioSuryoyo (Enschede)",
+    "streamInfo": [
+      {
+        "name": "RadioSuryoyo",
+        "streamLinks": [
+          "http://stream.radiosuryoyo.com:8000/;*.mp3"
+        ]
+      },
+      {
+        "name": "RadioSuryoyo Dance",
+        "streamLinks": [
+          "http://stream.radiosuryoyo.com:8000/dance3.mp3"
+        ]
+      },
+      {
+        "name": "RadioSuryoyo Children",
+        "streamLinks": [
+          "http://stream.radiosuryoyo.com:8000/children.mp3"
+        ]
+      },
+      {
+        "name": "RadioSuryoyo East Assyrian",
+        "streamLinks": [
+          "http://stream.radiosuryoyo.com:8000/eastassyrian.mp3"
+        ]
+      },
+      {
+        "name": "RadioSuryoyo Love Songs",
+        "streamLinks": [
+          "http://stream.radiosuryoyo.com:8000/lovesongs.mp3"
+        ]
+      }
+    ]
+  },
+  {
+    "station": "RNI Radio (Radio Northsea International, Overdinkel)",
+    "streamInfo": [
+      {
+        "name": "RNI Radio - Radio Northsea International",
+        "streamLinks": [
+          "https://everestcast.renshosting.nl/rni9"
+        ]
+      },
+      {
+        "name": "RNI Hit Radio",
+        "streamLinks": [
+          "https://everestcast.renshosting.nl/rni3"
+        ]
+      },
+      {
+        "name": "RNI Jenni Baynton",
+        "streamLinks": [
+          "https://everestcast.renshosting.nl/rni5"
+        ]
+      },
+      {
+        "name": "RNI Road Show Radio",
+        "streamLinks": [
+          "https://everestcast.renshosting.nl/rni11"
+        ]
+      },
+      {
+        "name": "RNI Pirates",
+        "streamLinks": [
+          "https://everestcast.renshosting.nl/rni1"
+        ]
+      },
+      {
+        "name": "RNI Rock Radio",
+        "streamLinks": [
+          "https://everestcast.renshosting.nl/rni7"
+        ]
+      },
+      {
+        "name": "RNI Vakantie Radio",
+        "streamLinks": [
+          "https://everestcast.renshosting.nl/rni8"
+        ]
+      }
+    ]
+  },
+  {
+    "station": "Rob Stenders",
+    "streamInfo": [
+      {
+        "name": "XXL Stenders",
+        "streamLinks": [
+          "https://mcp-1.streampanel.nl:8020/bonanza_mp3",
+          "http://streams.robstenders.nl:8063/bonanza_mp3"
+        ]
+      },
+      {
+        "name": "KX Classics",
+        "streamLinks": [
+          "https://mcp-1.streampanel.nl:8020/kxclassics_mp3",
+          "http://stream.kxclassikx.nl/"
+        ]
+      }
+    ]
+  },
+  {
+    "station": "Sterradio (Ootmarsum)",
+    "streamInfo": [
+      {
+        "name": "SterRadio",
+        "streamLinks": [
+          "https://caster05.streampakket.com/proxy/9098/stream"
+        ]
+      },
+      {
+        "name": "SterPiraten",
+        "streamLinks": [
+          "https://caster01.streampakket.com/proxy/9098/stream"
+        ]
+      }
+    ]
+  },
+  {
+    "station": "Synthetic FM",
+    "streamInfo": [
+      {
+        "name": "The Radio for the Synth Lovers",
+        "streamLinks": [
+          "https://mediaserv38.live-streams.nl:18040/live"
+        ]
+      },
+      {
+        "name": "The New Italo Generation",
+        "streamLinks": [
+          "https://mediaserv38.live-streams.nl:18030/stream"
+        ]
+      }
+    ]
+  },
+  {
+    "station": "Team FM",
+    "streamInfo": [
+      {
+        "name": "Team FM",
+        "streamLinks": [
+          "https://mediacp.audiostreamen.nl/teamfm",
+          "https://stream4.audiostreamen.nl/teamfm",
+          "http://audiostreamen.nl:8010/stream"
+        ]
+      },
+      {
+        "name": "Drenthe en Groningen",
+        "streamLinks": [
+          "https://mediacp.audiostreamen.nl/drenthe",
+          "https://stream4.audiostreamen.nl/teamfmdrenthe"
+        ]
+      },
+      {
+        "name": "Twente",
+        "streamLinks": [
+          "https://mediacp.audiostreamen.nl/twente",
+          "https://stream4.audiostreamen.nl/teamfmtwente"
+        ]
+      },
+      {
+        "name": "Friesland",
+        "streamLinks": [
+          "https://mediacp.audiostreamen.nl/friesland",
+          "https://stream4.audiostreamen.nl/teamfmfriesland"
+        ]
+      },
+      {
+        "name": "Overijssel",
+        "streamLinks": [
+          "https://mediacp.audiostreamen.nl/overijssel",
+          "https://stream4.audiostreamen.nl/teamfmoverijssel"
+        ]
+      },
+      {
+        "name": "Gelderland",
+        "streamLinks": [
+          "https://mediacp.audiostreamen.nl/gelderland",
+          "https://stream4.audiostreamen.nl/teamfmgelderland"
+        ]
+      },
+      {
+        "name": "Atlantis",
+        "streamLinks": [
+          "https://mediacp.audiostreamen.nl/atlantis",
+          "https://stream4.audiostreamen.nl/teamfmatlantis"
+        ]
+      },
+      {
+        "name": "Hitradio",
+        "streamLinks": [
+          "https://mediacp.audiostreamen.nl/hitradio",
+          "https://stream4.audiostreamen.nl/teamfmhitradio",
+          "http://217.21.199.146:9008/stream"
+        ]
+      },
+      {
+        "name": "Piraten Platen",
+        "streamLinks": [
+          "https://mediacp.audiostreamen.nl/piratenplaten",
+          "https://stream4.audiostreamen.nl/teamfmpiratenplaten"
+        ]
+      }
+    ]
+  },
+  {
+    "station": "Unique (Stichting Audiovisuele Faciliteiten, Malden)",
+    "streamInfo": [
+      {
+        "name": "Unique Classic Rock",
+        "streamLinks": [
+          "https://mscp2.live-streams.nl:8182/radio"
+        ]
+      },
+      {
+        "name": "Unique Gold",
+        "streamLinks": [
+          "https://mscp3.live-streams.nl:8212/live"
+        ]
+      },
+      {
+        "name": "Unique Smooth",
+        "streamLinks": [
+          "https://mscp4.live-streams.nl:8212/radio"
+        ]
+      }
+    ]
+  }
+]
