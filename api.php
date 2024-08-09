@@ -6,7 +6,7 @@ header('Content-Type: application/json');
    //shell_exec('sudo chmod -R 777 /home/pi/.cache/vlc');
 
 // Path to the SQLite database file
-$db_file_path = 'track.db';
+$db_file_path = 'cddb.db';
 
 // Function to send a command over HTTP to VLC
 function send_http_command($command) {
