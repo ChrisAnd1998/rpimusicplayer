@@ -6,7 +6,7 @@ header('Content-Type: application/json');
    //shell_exec('sudo chmod -R 777 /home/pi/.cache/vlc');
 
 // Path to the SQLite database file
-$db_file_path = 'cddb.db';
+$db_file_path = 'track.db';
 
 // Function to send a command over HTTP to VLC
 function send_http_command($command) {
@@ -115,7 +115,7 @@ function is_dir_empty($dir) {
 }
 
 // Function to find track info by CD-ROM ID
-function find_track_info($cdrom_id, $db_file_path) {
+function find_track_info_local($cdrom_id, $db_file_path) {
     if (!file_exists($db_file_path)) {
         return "Database file not found.";
     }
@@ -136,6 +136,7 @@ function find_track_info($cdrom_id, $db_file_path) {
         return "CD-ROM ID not found.";
     }
 }
+
 
 // Function to get USB devices and their first partition's volume label
 function get_usb_devices() {
@@ -217,7 +218,7 @@ $cd_info = parse_cd_discid_output($cd_discid_output);
 $cd_status = $cd_info;
 
 if ($cd_info && isset($cd_info['cd_rom_id'])) {
-    $track_info = find_track_info($cd_info['cd_rom_id'], $db_file_path);
+    $track_info = find_track_info_local($cd_info['cd_rom_id'], $db_file_path);
     $cd_status = array_merge($cd_info, ['track_info' => $track_info]);
     $cd_status['mounted'] = true;
 } else {
