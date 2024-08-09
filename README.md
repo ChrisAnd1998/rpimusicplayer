@@ -1,2 +1,157 @@
-# rpimusicplayer
-Raspberry Pi 4 or 5 music player. Supports: CD-ROM, USB (Any file VLC can play) and internet radio.
+# Raspberry Pi Music Player with Touchscreen Interface
+
+This project sets up a Raspberry Pi 4 or 5 as a music player with a touchscreen interface.  
+It supports: CD-ROM, USB (Any file VLC can play) and internet radio.  
+Follow the steps below to install and configure your system.  
+
+## Requirements
+
+- **Raspberry Pi 4 or 5**  
+  (For smooth performance, use a Raspberry Pi 5)
+- **USB CD-ROM Player**
+- **Touchscreen**  
+  (Tested with Waveshare 7.9-inch HDMI Touchscreen LCD Display, 400(H) x 1280(V) Pixels IPS Screen, 60Hz)
+- **USB Dock (Optional)**
+- **InnoMaker Raspberry Pi HIFI DAC HAT PCM5122**  
+  (Optional HIFI DAC Audio Card Expansion Board for improved audio quality)
+
+## Installation Steps
+
+1. **Flash Raspberry Pi OS Lite (64-bit) to Your SD Card**
+   - Ensure SSH and Wi-Fi are enabled during setup.
+
+2. **Enable I2C and Configure DAC Support**
+   - Edit the config file:
+     ```bash
+     sudo nano /boot/firmware/config.txt
+     ```
+   - Add the following lines to enable I2C and the DAC:
+     ```bash
+     dtparam=i2c=on  
+     dtoverlay=allo-boss-dac-pcm512x-audio
+     ```
+
+3. **Install Necessary Software Packages**
+   - Run the following commands to install the required packages:
+     ```bash
+     sudo apt install lighttpd php php-cgi
+     sudo apt install xserver-xorg xinit
+     sudo apt install chromium-browser
+     sudo apt install vlc
+     sudo apt install cd-discid
+     sudo apt install unclutter
+     ```
+
+4. **Set Permissions for the Web Server**
+   - Adjust permissions for the web directory:
+     ```bash
+     sudo chown -R nobody:nogroup /var/www/html  
+     sudo chmod o+w /var/www/html
+     ```
+
+5. **Deploy Your Web Interface**
+   - Copy all files from this repository to `/var/www/html`.
+   - Ensure to remove the default `index.html` first.
+
+6. **Configure X11 for Touchscreen Display**
+   - Allow any user to start the X server:
+     ```bash
+     sudo nano /etc/X11/Xwrapper.config
+     ```
+     Add:
+     ```bash
+     allowed_users=anybody
+     ```
+   - Prevent the display from going to sleep:
+     ```bash
+     sudo nano /etc/X11/xorg.conf
+     ```
+     Add:
+     ```bash
+     Section "ServerFlags"
+         Option "blank time" "0"
+         Option "standby time" "0"
+         Option "suspend time" "0"
+         Option "off time" "0"
+     EndSection
+     ```
+
+7. **Reboot the Raspberry Pi**
+   - Reboot to apply changes:
+     ```bash
+     sudo reboot
+     ```
+
+8. **Identify the BossDAC Device**
+   - Find the DAC card number:
+     ```bash
+     aplay -l
+     ```
+
+9. **Set Up Audio Configuration**
+   - Create an `asound` configuration file:
+     ```bash
+     sudo nano /etc/asound.conf
+     ```
+   - Set the card number (replace `2` with the actual card number from `aplay -l`):
+     ```bash
+     defaults.pcm.card 2
+     defaults.ctl.card 2
+     ```
+
+10. **Enable Auto-Mounting and Chromium Startup Scripts**
+    - Make the scripts executable:
+      ```bash
+      sudo chmod +x /var/www/html/sh/auto_mount.sh  
+      sudo chmod +x /var/www/html/sh/chromium.sh
+      ```
+    - Add the scripts to startup:
+      ```bash
+      sudo nano /etc/rc.local
+      ```
+      Add before `exit 0`:
+      ```bash
+      /var/www/html/sh/chromium.sh &
+      /var/www/html/sh/auto_mount.sh &
+      ```
+
+11. **Create Symbolic Links for Convenience**
+    - Link the home directory to the web directory:
+      ```bash
+      sudo ln -s /home /var/www/html/home  
+      sudo ln -s /var/www/html /home/pi/htdocs
+      ```
+
+12. **Install SQLite PHP Extension**
+    - Install and configure SQLite3:
+      ```bash
+      sudo apt install php-sqlite3
+      sudo nano /etc/php/8.2/apache2/php.ini
+      ```
+      Add:
+      ```bash
+      extension=sqlite3
+      ```
+
+13. **Disable Unnecessary Services**
+    - Improve system performance by disabling unneeded services:
+      ```bash
+      sudo systemctl disable NetworkManager-wait-online.service
+      sudo systemctl stop NetworkManager-wait-online.service
+      sudo systemctl disable raspi-config.service
+      sudo systemctl stop raspi-config.service
+      sudo systemctl disable e2scrub_reap.service
+      sudo systemctl stop e2scrub_reap.service
+      sudo systemctl disable bluetooth.service
+      sudo systemctl stop bluetooth.service
+      sudo systemctl disable systemd-journal-flush.service
+      sudo systemctl stop systemd-journal-flush.service
+      sudo systemctl disable rpi-eeprom-update.service
+      sudo systemctl stop rpi-eeprom-update.service
+      ```
+
+14. **Final Reboot**
+    - Reboot the Raspberry Pi one more time to finalize the setup:
+      ```bash
+      sudo reboot
+      ```
