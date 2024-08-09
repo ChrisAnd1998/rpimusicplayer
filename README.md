@@ -21,9 +21,10 @@ Follow the steps below to install and configure your system.
 ## Installation Steps
 
 1. **Flash Raspberry Pi OS Lite (64-bit) to Your SD Card**
+  - User must be **pi** and password must be **pi** too.
    - Ensure SSH and Wi-Fi are enabled during setup.
 
-2. **Enable I2C and Configure DAC Support**
+3. **Enable I2C and Configure DAC Support**
    - Edit the config file:
      ```bash
      sudo nano /boot/firmware/config.txt
@@ -34,7 +35,7 @@ Follow the steps below to install and configure your system.
      dtoverlay=allo-boss-dac-pcm512x-audio
      ```
 
-3. **Install Necessary Software Packages**
+4. **Install Necessary Software Packages**
    - Run the following commands to install the required packages:
      ```bash
      sudo apt install lighttpd php php-cgi
@@ -45,18 +46,18 @@ Follow the steps below to install and configure your system.
      sudo apt install unclutter
      ```
 
-4. **Set Permissions for the Web Server**
+5. **Set Permissions for the Web Server**
    - Adjust permissions for the web directory:
      ```bash
      sudo chown -R nobody:nogroup /var/www/html  
      sudo chmod o+w /var/www/html
      ```
 
-5. **Deploy Your Web Interface**
+6. **Deploy Your Web Interface**
    - Copy all files from this repository to `/var/www/html`.
    - Ensure to remove the default `index.html` first.
 
-6. **Configure X11 for Touchscreen Display**
+7. **Configure X11 for Touchscreen Display**
    - Allow any user to start the X server:
      ```bash
      sudo nano /etc/X11/Xwrapper.config
@@ -79,19 +80,19 @@ Follow the steps below to install and configure your system.
      EndSection
      ```
 
-7. **Reboot the Raspberry Pi**
+8. **Reboot the Raspberry Pi**
    - Reboot to apply changes:
      ```bash
      sudo reboot
      ```
 
-8. **Identify the BossDAC Device**
+9. **Identify the BossDAC Device**
    - Find the DAC card number:
      ```bash
      aplay -l
      ```
 
-9. **Set Up Audio Configuration**
+10. **Set Up Audio Configuration**
    - Create an `asound` configuration file:
      ```bash
      sudo nano /etc/asound.conf
@@ -102,7 +103,7 @@ Follow the steps below to install and configure your system.
      defaults.ctl.card 2
      ```
 
-10. **Enable Auto-Mounting and Chromium Startup Scripts**
+11. **Enable Auto-Mounting and Chromium Startup Scripts**
     - Make the scripts executable:
       ```bash
       sudo chmod +x /var/www/html/sh/auto_mount.sh  
@@ -118,14 +119,14 @@ Follow the steps below to install and configure your system.
       /var/www/html/sh/auto_mount.sh &
       ```
 
-11. **Create Symbolic Links for Convenience**
+12. **Create Symbolic Links for Convenience**
     - Link the home directory to the web directory:
       ```bash
       sudo ln -s /home /var/www/html/home  
       sudo ln -s /var/www/html /home/pi/htdocs
       ```
 
-12. **Install SQLite PHP Extension**
+13. **Install SQLite PHP Extension**
     - Install and configure SQLite3:
       ```bash
       sudo apt install php-sqlite3
@@ -136,7 +137,7 @@ Follow the steps below to install and configure your system.
       extension=sqlite3
       ```
 
-13. **Disable Unnecessary Services**
+14. **Disable Unnecessary Services**
     - Improve system performance by disabling unneeded services:
       ```bash
       sudo systemctl disable NetworkManager-wait-online.service
@@ -153,7 +154,7 @@ Follow the steps below to install and configure your system.
       sudo systemctl stop rpi-eeprom-update.service
       ```
 
-14. **Final Reboot**
+15. **Final Reboot**
     - Reboot the Raspberry Pi one more time to finalize the setup:
       ```bash
       sudo reboot
