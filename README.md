@@ -164,9 +164,9 @@ Follow the steps below to install and configure your system.
 ## CD-ROM Track database 
 To identify tracks on your CD offline you need to put a **cddb.db** file in /var/www/html  
 Download the CDDB database from https://web.archive.org/web/20200606020809if_/http://ftp.freedb.org/pub/freedb/freedb-complete-20200601.tar.bz2 (959 MB)  
-Then fully extract it (7 GB)  
+Then fully extract it (7 GB) (about 4 million files)
   
-Place this script inside the freedb-complete-20200601 directory.  
+Place this Python script inside the freedb-complete-20200601 directory.  
 And run it to create a json file. (cddb.json)  
 ``` python
 import os
@@ -244,7 +244,8 @@ if __name__ == "__main__":
 
 ```
 
-Now you should have a json file. We will convert it to a sqlite database.
+Now you should have a json file.  
+We will convert it to a sqlite database using the following Python script.
 ``` python
 import sqlite3
 import json
