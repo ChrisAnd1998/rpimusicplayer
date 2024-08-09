@@ -5,12 +5,11 @@ It supports: CD-ROM, USB (Any file VLC can play) and internet radio.
 Can be controlled from other devices when going to the ip address of the pi in your browser.  
 Follow the steps below to install and configure your system.  
 
-<img src="https://github.com/user-attachments/assets/5bccc80f-a566-4fd2-a6ef-1f9618ad0194" width="300">
-
-
-<img src="https://github.com/user-attachments/assets/7daa227f-ea62-4a52-bf86-147d5c465a90" width="200">
-<img src="https://github.com/user-attachments/assets/00442b55-c59f-407c-8321-a1340b0b9271" width="200">
-<img src="https://github.com/user-attachments/assets/f16c2cd7-b496-46f1-8228-e9d5d73863d6" width="200">
+<img src="https://github.com/user-attachments/assets/5bccc80f-a566-4fd2-a6ef-1f9618ad0194" width="250">
+<img src="https://github.com/user-attachments/assets/7daa227f-ea62-4a52-bf86-147d5c465a90" width="150">  
+  
+<img src="https://github.com/user-attachments/assets/00442b55-c59f-407c-8321-a1340b0b9271" width="150">
+<img src="https://github.com/user-attachments/assets/f16c2cd7-b496-46f1-8228-e9d5d73863d6" width="150">
 
 
 ## Requirements
