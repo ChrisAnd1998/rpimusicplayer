@@ -4,6 +4,9 @@ This project sets up a Raspberry Pi 4 or 5 as a music player with a touchscreen 
 It supports: CD-ROM, USB (Any file VLC can play) and internet radio.  
 Follow the steps below to install and configure your system.  
 
+<img src="https://github.com/user-attachments/assets/7daa227f-ea62-4a52-bf86-147d5c465a90" width="200">
+<img src="https://github.com/user-attachments/assets/00442b55-c59f-407c-8321-a1340b0b9271" width="200">
+
 ## Requirements
 
 - **Raspberry Pi 4 or 5**  
