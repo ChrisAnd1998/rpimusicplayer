@@ -7,6 +7,8 @@ Follow the steps below to install and configure your system.
 
 <img src="https://github.com/user-attachments/assets/7daa227f-ea62-4a52-bf86-147d5c465a90" width="200">
 <img src="https://github.com/user-attachments/assets/00442b55-c59f-407c-8321-a1340b0b9271" width="200">
+<img src="https://github.com/user-attachments/assets/f16c2cd7-b496-46f1-8228-e9d5d73863d6" width="200">
+
 
 ## Requirements
 
