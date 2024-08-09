@@ -288,4 +288,4 @@ if __name__ == "__main__":
 
 ```
 
-Now copy this **cddb.db** to /var/www/html
+Now copy this **cddb.db** (2.3 GB) to /var/www/html
